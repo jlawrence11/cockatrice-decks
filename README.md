@@ -13,7 +13,8 @@ The deck name you used in the filename, but with extra flourishes if preferred.
 Anything in brackets (`[]`) is optional and will still fit the criteria of being complete with regards to the comments.
 Items in gt/lt symbols (`<>`) is meant to be descriptive of what is suppose to go there.
 *Neither of those sets of symbols are included in the actual format.*
-`["<Slogan>"]
+```
+["<Slogan>"]
 FORMAT: <EDH/Standard/Brawl/ETC>
 [CDR: <Commander>]
 [Alt CDR: <Alt Commander>]
@@ -22,7 +23,8 @@ Colors: <B, Bu, G, R, W>
 [Est Cost $]
 [URL: <If based on another deck>]
 [TIPS:
-Any tips on how it plays, etc]`
+Any tips on how it plays, etc]
+```
 * `"Slogan"`: If there a fun slogan/secondary title to attach to the deck.
 * `CDR`: Commander, if there are 2 commanders (Partner Mechanic) list both as `CDR`
 * `Alt CDR`: Alternative Commander Option(s)
