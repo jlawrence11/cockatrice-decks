@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Mar 20 16:39:26 2025</lastLoadedTimestamp>
+    <deckname>Birds (GWU)</deckname>
+    <bannerCard providerId="">Derevi, Empyrial Tactician</bannerCard>
+    <comments>Format: EDH
+CDR: Derevi, Empyrial Tactian
+Colors: GWU</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Derevi, Empyrial Tactician"/>
+        <card number="1" name="Plumecreed Mentor"/>
+        <card number="1" name="Empyrean Eagle"/>
+        <card number="1" name="Swans of Bryn Argoll"/>
+        <card number="1" name="Watcher of the Spheres"/>
+        <card number="1" name="Gwaihir the Windlord"/>
+        <card number="1" name="Kastral, the Windcrested"/>
+        <card number="1" name="Vega, the Watcher"/>
+        <card number="1" name="Kykar, Zephyr Awakener"/>
+        <card number="1" name="Kangee, Aerie Keeper"/>
+        <card number="1" name="Lifecreed Duo"/>
+        <card number="1" name="Windbrisk Raptor"/>
+        <card number="1" name="Healer's Hawk"/>
+        <card number="1" name="Nesting Dovehawk"/>
+        <card number="1" name="Shrike Force"/>
+        <card number="1" name="Aven Interrupter"/>
+        <card number="1" name="Aven Brigadier"/>
+        <card number="1" name="Nadu, Winged Wisdom"/>
+        <card number="1" name="Vexing Radgull"/>
+        <card number="1" name="Warden of Evos Isle"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Owlbear Cub"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Redirect"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cackling Counterpart"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Patchwork Banner"/>
+        <card number="1" name="Banner of Kinship"/>
+        <card number="1" name="Bant Panorama"/>
+        <card number="1" name="Obelisk of Bant"/>
+        <card number="1" name="Bant Charm"/>
+        <card number="1" name="Brokers Charm"/>
+        <card number="1" name="Brokers Ascendancy"/>
+        <card number="1" name="Brokers Confluence"/>
+        <card number="1" name="Brokers Hideout"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="7" name="Island"/>
+        <card number="6" name="Forest"/>
+        <card number="7" name="Plains (a)"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Detection Tower"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Unsummon"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Stormtide Leviathan"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Polymorphist's Jest"/>
+        <card number="1" name="Time Wipe"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Dovescape"/>
+        <card number="1" name="Hallowed Burial"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Fog"/>
+        <card number="1" name="Archangel's Light"/>
+        <card number="1" name="Sublime Archangel"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Planar Bridge"/>
+        <card number="1" name="Arctic Treeline"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Hedge Maze"/>
+        <card number="1" name="Faith's Reward"/>
+    </zone>
+</cockatrice_deck>

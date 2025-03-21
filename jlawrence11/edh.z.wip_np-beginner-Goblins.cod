@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Mar 20 23:08:28 2025</lastLoadedTimestamp>
+    <deckname>z.wip_np-Beginner Goblin Deck</deckname>
+    <bannerCard providerId="">Krenko, Mob Boss</bannerCard>
+    <comments>CDR: Krenko, Mob Boss
+Colors: R</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="About"/>
+        <card number="1" name="Name Krenko, Mob Boss BEGINNER deck!"/>
+        <card number="1" name="Commander"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Deck"/>
+        <card number="1" name="Akki Scrapchomper"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Battle Squadron"/>
+        <card number="1" name="Beetleback Chief"/>
+        <card number="1" name="Cathartic Pyre"/>
+        <card number="1" name="Chimney Rabble"/>
+        <card number="1" name="Conspicuous Snoop"/>
+        <card number="1" name="Dark-Dweller Oracle"/>
+        <card number="1" name="Destructive Digger"/>
+        <card number="1" name="Dragon Fodder"/>
+        <card number="1" name="Fire Prophecy"/>
+        <card number="1" name="Goblin Assailant"/>
+        <card number="1" name="Goblin Chieftain"/>
+        <card number="1" name="Goblin Instigator"/>
+        <card number="1" name="Goblin Motivator"/>
+        <card number="1" name="Goblin Picker"/>
+        <card number="1" name="Goblin Rally"/>
+        <card number="1" name="Goblin Ringleader"/>
+        <card number="1" name="Goblin Trashmaster"/>
+        <card number="1" name="Goblin Warchief"/>
+        <card number="1" name="Hobgoblin Bandit Lord"/>
+        <card number="1" name="Hordeling Outburst"/>
+        <card number="1" name="Hulking Bugbear"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Introduction to Annihilation"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Krenko's Command"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Moria Marauder"/>
+        <card number="32" name="Mountain"/>
+        <card number="1" name="Nimble Birdsticker"/>
+        <card number="1" name="Pashalik Mons"/>
+        <card number="1" name="Redcap Thief"/>
+        <card number="1" name="Rummaging Goblin"/>
+        <card number="1" name="Rundvelt Hordemaster"/>
+        <card number="1" name="Shared Animosity"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Swab Goblin"/>
+        <card number="1" name="Swarming Goblins"/>
+        <card number="1" name="Symmetry Matrix"/>
+        <card number="1" name="Torch Courier"/>
+        <card number="1" name="Unstable Obelisk"/>
+        <card number="1" name="Volley Veteran"/>
+        <card number="1" name="Wily Goblin"/>
+        <card number="1" name="You See a Pair of Goblins"/>
+        <card number="1" name="Temple of the False God"/>
+    </zone>
+</cockatrice_deck>

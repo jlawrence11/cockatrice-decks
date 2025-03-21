@@ -18,7 +18,7 @@ Items in gt/lt symbols (`<>`) is meant to be descriptive of what is suppose to g
 FORMAT: <EDH/Standard/Brawl/ETC>
 [CDR: <Commander>]
 [Alt CDR: <Alt Commander>]
-Colors: <B, Bu, G, R, W>
+Colors: <B, U, G, R, W>
 [TAGS: <Aggro/Lifegain/Sacrifice/ETC>]
 [Est Cost $]
 [URL: <If based on another deck>]
@@ -28,7 +28,7 @@ Any tips on how it plays, etc]
 * `"Slogan"`: If there a fun slogan/secondary title to attach to the deck.
 * `CDR`: Commander, if there are 2 commanders (Partner Mechanic) list both as `CDR`
 * `Alt CDR`: Alternative Commander Option(s)
-* `Colors`: B = Black; Bu = Blue. *(Same as Cockatrice filters)*.
+* `Colors`: B = Black; U = Blue. *(Same as Cockatrice filters)*.
 * `TAGS`: All the tags the deck could/should be classified under to help understand the play style quickly.
 * `Est Cost`: To help play groups interested in trying to play comparable cost decks as a way to not be completely overpowered. *(Paste deck in to [https://tappedout.net/mtg-decks/paste/] to easily get estimated cost.)*
 * `URL`: If the deck started off somewhere online, even if modified, let's try and credit the authors here.

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Mar 20 15:42:04 2025</lastLoadedTimestamp>
+    <deckname>Doggy (W)</deckname>
+    <bannerCard providerId="">Phelia, Exuberant Shepherd</bannerCard>
+    <comments>Format: EDH
+CDR: Phelia, Exuberant Shepard
+Colors: W</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Isamaru, Hound of Konda"/>
+        <card number="1" name="Iron Mastiff"/>
+        <card number="1" name="Watchdog"/>
+        <card number="1" name="Phelia, Exuberant Shepherd"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Stonebinder's Familiar"/>
+        <card number="1" name="Gore Vassal"/>
+        <card number="1" name="Champion of Arashin"/>
+        <card number="1" name="Rescue Retriever"/>
+        <card number="1" name="Ainok Bond-Kin"/>
+        <card number="1" name="Loyal Warhound"/>
+        <card number="1" name="Cathar's Companion"/>
+        <card number="1" name="Supply Runners"/>
+        <card number="1" name="Boros Mastiff"/>
+        <card number="1" name="Pack Leader"/>
+        <card number="1" name="Rambunctious Mutt"/>
+        <card number="1" name="Karlov Watchdog"/>
+        <card number="1" name="Thraben Purebloods"/>
+        <card number="1" name="Affa Guard Hound"/>
+        <card number="1" name="Generous Pup"/>
+        <card number="1" name="Alpine Watchdog"/>
+        <card number="1" name="Akroan Mastiff"/>
+        <card number="1" name="Warclamp Mastiff"/>
+        <card number="1" name="Mischievous Pup"/>
+        <card number="1" name="Resolute Watchdog"/>
+        <card number="1" name="Blink Dog"/>
+        <card number="1" name="Trusty Retriever"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="34" name="Plains"/>
+        <card number="1" name="Three Tree Mascot"/>
+        <card number="1" name="Dictate of Heliod"/>
+        <card number="1" name="Spear of Heliod"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Commander's Insignia"/>
+        <card number="1" name="Flaming Fist"/>
+        <card number="1" name="Noble Heritage"/>
+        <card number="1" name="Inspiring Leader"/>
+        <card number="1" name="The War Games"/>
+        <card number="1" name="Rally the Ranks"/>
+        <card number="1" name="Sacred Ground"/>
+        <card number="1" name="Jihad"/>
+        <card number="1" name="Sphere of Duty"/>
+        <card number="1" name="Near-Death Experience"/>
+        <card number="1" name="Sigil of the New Dawn"/>
+        <card number="1" name="Abiding Grace"/>
+        <card number="1" name="Dawn Charm"/>
+        <card number="1" name="Flicker"/>
+        <card number="1" name="Flicker of Fate"/>
+        <card number="1" name="Flickerform"/>
+        <card number="1" name="Fountain of Renewal"/>
+        <card number="1" name="Halo Fountain"/>
+        <card number="1" name="Banshee's Blade"/>
+        <card number="1" name="Serra's Blessing"/>
+        <card number="1" name="Serra's Boon"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Changeling Sentinel"/>
+        <card number="1" name="Valiant Changeling"/>
+        <card number="1" name="Changeling Hero"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Impostor of the Sixth Pride"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Barkform Harvester"/>
+        <card number="1" name="Pearl Medallion"/>
+    </zone>
+</cockatrice_deck>

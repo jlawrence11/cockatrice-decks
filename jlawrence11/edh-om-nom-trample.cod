@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Mar 20 20:31:47 2025</lastLoadedTimestamp>
+    <deckname>On Nom Trample</deckname>
+    <bannerCard providerId="">Kamahl, Fist of Krosa</bannerCard>
+    <comments>Format: EDH
+CMD: Kamahl, Fist of Krosa
+Colors: G
+URL: https://tappedout.net/mtg-decks/om-nom-trample/</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Kamahl, Fist of Krosa"/>
+        <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Allosaurus Shepherd"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Argothian Elder"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Ashaya, Soul of the Wild"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Circle of Dreams Druid"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Concordant Crossroads"/>
+        <card number="1" name="Conqueror's Flail"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Creeping Renaissance"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Defense of the Heart"/>
+        <card number="1" name="Deserted Temple"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="1" name="Endurance"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Force of Vigor"/>
+        <card number="20" name="Forest"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Kamahl's Will"/>
+        <card number="1" name="Kodama of the East Tree"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Ley Weaver"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Mana Reflection"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Nacatl War-Pride"/>
+        <card number="1" name="Natural Order"/>
+        <card number="1" name="Nissa, Who Shakes the World"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Rings of Brighthearth"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Spike Weaver"/>
+        <card number="1" name="Spore Frog"/>
+        <card number="1" name="Surrak and Goreclaw"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Utopia Sprawl"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Vigor"/>
+        <card number="1" name="Vivien, Monsters' Advocate"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Karametra's Acolyte"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Survival of the Fittest"/>
+    </zone>
+</cockatrice_deck>
