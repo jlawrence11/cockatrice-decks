@@ -1,8 +1,7 @@
-#import os
 from pathlib import Path
 import lxml.etree as etree
 
-#python > 3.5
+#python >= 3.5
 files = list(Path('.').rglob('*.cod'))
 
 for file in files:
