@@ -1,100 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Mar 20 15:52:10 2025</lastLoadedTimestamp>
-    <deckname>Wolverine</deckname>
-    <bannerCard providerId="">Wolverine, Best There Is</bannerCard>
-    <comments>Format:L EDH
+  <deckname>Wolverine</deckname>
+  <bannerCard providerId="">Wolverine, Best There Is</bannerCard>
+  <comments>Format:L EDH
 CDR: Wolverine, Best There Is
 Colors: R, G</comments>
-    <tags/>
-    <zone name="main">
-        <card number="1" name="Wolverine, Best There Is"/>
-        <card number="1" name="Power Fist"/>
-        <card number="1" name="Darksteel Plate"/>
-        <card number="1" name="Bonds of Mortality"/>
-        <card number="1" name="Tyrite Sanctum"/>
-        <card number="1" name="Sowing Mycospawn"/>
-        <card number="1" name="Mycoloth"/>
-        <card number="1" name="Cryptolith Rite"/>
-        <card number="1" name="Gruul Keyrune"/>
-        <card number="1" name="Gruul Signet"/>
-        <card number="1" name="Gruul Locket"/>
-        <card number="1" name="Gruul Cluestone"/>
-        <card number="1" name="Gruul Charm"/>
-        <card number="1" name="Gruul Turf"/>
-        <card number="1" name="Gruul Spellbreaker"/>
-        <card number="1" name="Rhythm of the Wild"/>
-        <card number="1" name="Domri, Chaos Bringer"/>
-        <card number="1" name="Zhur-Taa Druid"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Geode Golem"/>
-        <card number="1" name="Thunderfoot Baloth"/>
-        <card number="1" name="Flamekin Herald"/>
-        <card number="1" name="Siege-Gang Lieutenant"/>
-        <card number="1" name="Loyal Apprentice"/>
-        <card number="1" name="Stumpsquall Hydra"/>
-        <card number="1" name="Biowaste Blob"/>
-        <card number="1" name="Guardian Augmenter"/>
-        <card number="1" name="Myth Unbound"/>
-        <card number="1" name="Kamahl's Will"/>
-        <card number="1" name="Obscuring Haze"/>
-        <card number="1" name="Klauth's Will"/>
-        <card number="1" name="War Room"/>
-        <card number="1" name="Study Hall"/>
-        <card number="1" name="Witch's Clinic"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Sanctum of Eternity"/>
-        <card number="1" name="Kediss, Emberclaw Familiar"/>
-        <card number="1" name="Dragon Cultist"/>
-        <card number="1" name="Raised by Giants"/>
-        <card number="1" name="Jeska, Thrice Reborn"/>
-        <card number="1" name="Visions of Dominance"/>
-        <card number="1" name="Deflecting Swat"/>
-        <card number="1" name="Domri Rade"/>
-        <card number="7" name="Snow-Covered Forest"/>
-        <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Sheltered Thicket"/>
-        <card number="1" name="Cinder Glade"/>
-        <card number="1" name="Stomping Ground"/>
-        <card number="1" name="Temple of Abandon"/>
-        <card number="1" name="Mountain Valley"/>
-        <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Game Trail"/>
-        <card number="1" name="Taurean Mauler"/>
-        <card number="1" name="Thundering Mightmare"/>
-        <card number="1" name="Dragonlair Spider"/>
-        <card number="1" name="Managorger Hydra"/>
-        <card number="1" name="Opaline Unicorn"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Explore"/>
-        <card number="1" name="Explore the Vastlands"/>
-        <card number="1" name="Loot, Exuberant Explorer"/>
-        <card number="1" name="Borderland Explorer"/>
-        <card number="1" name="Tempt with Discovery"/>
-        <card number="1" name="Tempt with Vengeance"/>
-        <card number="1" name="Replicating Ring"/>
-        <card number="7" name="Snow-Covered Mountain"/>
-        <card number="1" name="Rootbound Crag"/>
-        <card number="1" name="Atalan Jackal"/>
-        <card number="1" name="Sword of the Animist"/>
-        <card number="1" name="Bonfire of the Damned"/>
-        <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Road // Ruin"/>
-        <card number="1" name="Astral Cornucopia"/>
-        <card number="1" name="Solphim, Mayhem Dominus"/>
-        <card number="1" name="Boartusk Liege"/>
-        <card number="1" name="Anara, Wolvid Familiar"/>
-        <card number="1" name="Piper's Melody"/>
-        <card number="1" name="Renewing Touch"/>
-        <card number="1" name="Serene Remembrance"/>
-        <card number="1" name="Contagion Engine"/>
-        <card number="1" name="Contagion Clasp"/>
-    </zone>
+  <tags/>
+  <zone name="main">
+    <card number="1" name="Wolverine, Best There Is"/>
+    <card number="1" name="Power Fist"/>
+    <card number="1" name="Darksteel Plate"/>
+    <card number="1" name="Bonds of Mortality"/>
+    <card number="1" name="Tyrite Sanctum"/>
+    <card number="1" name="Sowing Mycospawn"/>
+    <card number="1" name="Mycoloth"/>
+    <card number="1" name="Cryptolith Rite"/>
+    <card number="1" name="Gruul Keyrune"/>
+    <card number="1" name="Gruul Signet"/>
+    <card number="1" name="Gruul Locket"/>
+    <card number="1" name="Gruul Cluestone"/>
+    <card number="1" name="Gruul Charm"/>
+    <card number="1" name="Gruul Turf"/>
+    <card number="1" name="Gruul Spellbreaker"/>
+    <card number="1" name="Rhythm of the Wild"/>
+    <card number="1" name="Domri, Chaos Bringer"/>
+    <card number="1" name="Zhur-Taa Druid"/>
+    <card number="1" name="Sol Ring"/>
+    <card number="1" name="Arcane Signet"/>
+    <card number="1" name="Commander's Sphere"/>
+    <card number="1" name="Geode Golem"/>
+    <card number="1" name="Thunderfoot Baloth"/>
+    <card number="1" name="Flamekin Herald"/>
+    <card number="1" name="Siege-Gang Lieutenant"/>
+    <card number="1" name="Loyal Apprentice"/>
+    <card number="1" name="Stumpsquall Hydra"/>
+    <card number="1" name="Biowaste Blob"/>
+    <card number="1" name="Guardian Augmenter"/>
+    <card number="1" name="Myth Unbound"/>
+    <card number="1" name="Kamahl's Will"/>
+    <card number="1" name="Obscuring Haze"/>
+    <card number="1" name="Klauth's Will"/>
+    <card number="1" name="War Room"/>
+    <card number="1" name="Study Hall"/>
+    <card number="1" name="Witch's Clinic"/>
+    <card number="1" name="Command Tower"/>
+    <card number="1" name="Command Beacon"/>
+    <card number="1" name="Sanctum of Eternity"/>
+    <card number="1" name="Kediss, Emberclaw Familiar"/>
+    <card number="1" name="Dragon Cultist"/>
+    <card number="1" name="Raised by Giants"/>
+    <card number="1" name="Jeska, Thrice Reborn"/>
+    <card number="1" name="Visions of Dominance"/>
+    <card number="1" name="Deflecting Swat"/>
+    <card number="1" name="Domri Rade"/>
+    <card number="7" name="Snow-Covered Forest"/>
+    <card number="1" name="Misty Rainforest"/>
+    <card number="1" name="Wooded Foothills"/>
+    <card number="1" name="Sheltered Thicket"/>
+    <card number="1" name="Cinder Glade"/>
+    <card number="1" name="Stomping Ground"/>
+    <card number="1" name="Temple of Abandon"/>
+    <card number="1" name="Mountain Valley"/>
+    <card number="1" name="Kessig Wolf Run"/>
+    <card number="1" name="Game Trail"/>
+    <card number="1" name="Taurean Mauler"/>
+    <card number="1" name="Thundering Mightmare"/>
+    <card number="1" name="Dragonlair Spider"/>
+    <card number="1" name="Managorger Hydra"/>
+    <card number="1" name="Opaline Unicorn"/>
+    <card number="1" name="Farseek"/>
+    <card number="1" name="Kodama's Reach"/>
+    <card number="1" name="Evolving Wilds"/>
+    <card number="1" name="Terramorphic Expanse"/>
+    <card number="1" name="Explore"/>
+    <card number="1" name="Explore the Vastlands"/>
+    <card number="1" name="Loot, Exuberant Explorer"/>
+    <card number="1" name="Borderland Explorer"/>
+    <card number="1" name="Tempt with Discovery"/>
+    <card number="1" name="Tempt with Vengeance"/>
+    <card number="1" name="Replicating Ring"/>
+    <card number="7" name="Snow-Covered Mountain"/>
+    <card number="1" name="Rootbound Crag"/>
+    <card number="1" name="Atalan Jackal"/>
+    <card number="1" name="Sword of the Animist"/>
+    <card number="1" name="Bonfire of the Damned"/>
+    <card number="1" name="Blasphemous Act"/>
+    <card number="1" name="Road // Ruin"/>
+    <card number="1" name="Astral Cornucopia"/>
+    <card number="1" name="Solphim, Mayhem Dominus"/>
+    <card number="1" name="Boartusk Liege"/>
+    <card number="1" name="Anara, Wolvid Familiar"/>
+    <card number="1" name="Piper's Melody"/>
+    <card number="1" name="Renewing Touch"/>
+    <card number="1" name="Serene Remembrance"/>
+    <card number="1" name="Contagion Engine"/>
+    <card number="1" name="Contagion Clasp"/>
+  </zone>
 </cockatrice_deck>

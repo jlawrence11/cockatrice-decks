@@ -1,115 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Mar 20 20:55:27 2025</lastLoadedTimestamp>
-    <deckname>Ghost in the Shell</deckname>
-    <bannerCard providerId="">Breya, Etherium Shaper</bannerCard>
-    <comments>CDR: Breya, Etherium Shaper
+  <deckname>Ghost in the Shell</deckname>
+  <bannerCard providerId="">Breya, Etherium Shaper</bannerCard>
+  <comments>CDR: Breya, Etherium Shaper
 Colors: B, U, R
 Est $800
 URL: https://tappedout.net/mtg-decks/breya-combo-brew/
 
 2025-03-02 Removed Bitter Ordeal</comments>
-    <tags/>
-    <zone name="main">
-        <card number="1" name="Breya, Etherium Shaper"/>
-        <card number="1" name="Academy Ruins"/>
-        <card number="1" name="Adarkar Wastes"/>
-        <card number="1" name="Altar of the Brood"/>
-        <card number="1" name="Arcum Dagsson"/>
-        <card number="1" name="Ashnod's Altar"/>
-        <card number="1" name="Azorius Signet"/>
-        <card number="1" name="Chromatic Lantern"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Crumbling Necropolis"/>
-        <card number="1" name="Dack Fayden"/>
-        <card number="1" name="Daretti, Scrap Savant"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Diabolic Revelation"/>
-        <card number="1" name="Dimir Signet"/>
-        <card number="1" name="Disciple of the Vault"/>
-        <card number="1" name="Dispatch"/>
-        <card number="1" name="Eldrazi Displacer"/>
-        <card number="1" name="Felidar Guardian"/>
-        <card number="1" name="Grand Architect"/>
-        <card number="1" name="Impact Tremors"/>
-        <card number="1" name="Izzet Signet"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Mana Echoes"/>
-        <card number="1" name="Nim Deathmantle"/>
-        <card number="1" name="Nomad Outpost"/>
-        <card number="1" name="Open the Vaults"/>
-        <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Padeem, Consul of Innovation"/>
-        <card number="1" name="Path to Exile"/>
-        <card number="1" name="Phyrexian Metamorph"/>
-        <card number="1" name="Purphoros, God of the Forge"/>
-        <card number="1" name="Rakdos Signet"/>
-        <card number="1" name="Reckless Fireweaver"/>
-        <card number="1" name="Restoration Angel"/>
-        <card number="1" name="Saheeli Rai"/>
-        <card number="1" name="Sculpting Steel"/>
-        <card number="1" name="Sensei's Divining Top"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Spine of Ish Sah"/>
-        <card number="1" name="Sword of the Meek"/>
-        <card number="1" name="Sydri, Galvanic Genius"/>
-        <card number="1" name="Thopter Assembly"/>
-        <card number="1" name="Thopter Foundry"/>
-        <card number="1" name="Thopter Spy Network"/>
-        <card number="1" name="Time Sieve"/>
-        <card number="1" name="Zulaport Cutthroat"/>
-        <card number="1" name="Mindslaver" setShortName="PLST" collectorNumber="MRD-206" uuid="c7c69630-eb56-4d62-ad14-556555ac14fe"/>
-        <card number="1" name="Rings of Brighthearth" setShortName="CMR" collectorNumber="698" uuid="1dbc00c6-5df2-4953-95c2-6c79dc86f409"/>
-        <card number="1" name="Goblin Welder" setShortName="DDU" collectorNumber="35" uuid="17be21c8-d7bb-405e-addd-5aba1125b709"/>
-        <card number="1" name="Sharuum the Hegemon" setShortName="2XM" collectorNumber="219" uuid="af80ef38-ab95-476f-b0dd-b5ef3e9bceab"/>
-        <card number="1" name="Rhystic Study" setShortName="J22" collectorNumber="114" uuid="9f37c5b6-a59c-45cd-9a99-e9357fe9ea1b"/>
-        <card number="1" name="Anguished Unmaking" setShortName="PIP" collectorNumber="737" uuid="5b230483-dcdd-4731-b98c-cbb8c221de6b"/>
-        <card number="1" name="Cyclonic Rift" setShortName="RVR" collectorNumber="40" uuid="dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe"/>
-        <card number="1" name="Enlightened Tutor" setShortName="DMR" collectorNumber="6" uuid="1c9675fb-1a89-420f-aea8-50e0642f549c"/>
-        <card number="1" name="Muddle the Mixture" setShortName="PLST" collectorNumber="RAV-60" uuid="79fc4b92-0efe-4370-a2b3-2155c458a966"/>
-        <card number="1" name="Mystical Tutor" setShortName="DMR" collectorNumber="60" uuid="36fa9a0b-b0c9-43ea-ba11-99d7982f974e"/>
-        <card number="1" name="Sphinx's Revelation" setShortName="RVR" collectorNumber="228" uuid="5579d2d6-b34b-44a2-8b72-9f18938a18a0"/>
-        <card number="1" name="Vampiric Tutor" setShortName="DMR" collectorNumber="108" uuid="34a0203f-9cce-43a4-9cb7-8ce6647895cd"/>
-        <card number="1" name="Ancient Den" setShortName="C21" collectorNumber="276" uuid="0a508907-a127-45cd-898a-e936bc08391f"/>
-        <card number="1" name="Arcane Sanctum" setShortName="DRC" collectorNumber="146" uuid="b57164a6-aca8-4cd2-9b40-1c10f13c1c6b"/>
-        <card number="1" name="Arid Mesa" setShortName="PMH2" collectorNumber="244s" uuid="64a6c831-18a5-44d1-aac4-afb018bc93c7"/>
-        <card number="1" name="Blood Crypt" setShortName="RVR" collectorNumber="273" uuid="0994aef4-b341-45f4-8881-523565a5956e"/>
-        <card number="1" name="Boseiju, Who Shelters All" setShortName="V12" collectorNumber="2" uuid="e01b7141-9576-445b-bcd4-00d79850a4dd"/>
-        <card number="1" name="Cavern of Souls" setShortName="LCI" collectorNumber="269" uuid="3aad15a2-8a1b-4460-9b06-e85863081878"/>
-        <card number="1" name="Caves of Koilos" setShortName="DRC" collectorNumber="148" uuid="18e5a0d3-d132-40e2-85ae-a1b743dfdd33"/>
-        <card number="1" name="Flooded Strand" setShortName="PMH3" collectorNumber="220s" uuid="b817ec56-51cb-42b0-a46b-914a6d4b5582"/>
-        <card number="1" name="Glimmervoid" setShortName="2XM" collectorNumber="319" uuid="4a639687-d9e3-46a8-bc9f-6ca3912c46ab"/>
-        <card number="1" name="Godless Shrine" setShortName="SLD" collectorNumber="128" uuid="e2c39866-98c2-4c60-98e1-eaf8e40b2d29"/>
-        <card number="1" name="Great Furnace" setShortName="C21" collectorNumber="292" uuid="f0ac295e-93e4-490b-b8a3-a9794c7f56e4"/>
-        <card number="1" name="Hallowed Fountain" setShortName="RVR" collectorNumber="280" uuid="cd70adab-39db-4cc9-ae37-a342f9109bec"/>
-        <card number="1" name="Inventors' Fair" setShortName="KLR" collectorNumber="284" uuid="c379f057-46ed-474e-83b1-72b843901864"/>
-        <card number="1" name="Island" setShortName="DFT" collectorNumber="281" uuid="f9369d0a-87c0-4c29-b43c-cd45c007f8d6"/>
-        <card number="1" name="Marsh Flats" setShortName="PMH2" collectorNumber="248s" uuid="2b076441-b770-4a06-97ac-34a52822f4c0"/>
-        <card number="1" name="Mountain" setShortName="DFT" collectorNumber="288" uuid="653e2393-30a7-4e0c-bd20-f05ca0ba3cb6"/>
-        <card number="1" name="Mystic Monastery" setShortName="BLC" collectorNumber="318" uuid="c59b9295-1802-4452-ae8b-72adeb566c3a"/>
-        <card number="1" name="Mystic Monastery" setShortName="KTK" collectorNumber="236y" uuid="aef570e6-b522-48f5-b253-bffb05fd9b87"/>
-        <card number="1" name="Plains" setShortName="DFT" collectorNumber="277" uuid="464723b3-0723-45f2-a258-32d098c39039"/>
-        <card number="1" name="Polluted Delta" setShortName="PRM" collectorNumber="43582" uuid="bf0cce8a-d391-4a63-b701-a1abce082b77"/>
-        <card number="1" name="Sacred Foundry" setShortName="SLD" collectorNumber="131" uuid="52e55b85-92c1-4b83-9a9d-4afb8e938e4f"/>
-        <card number="1" name="Seat of the Synod" setShortName="J25" collectorNumber="773" uuid="f0cff35c-de07-4465-b3da-efe4a78eb6d0"/>
-        <card number="1" name="Shivan Reef" setShortName="DRC" collectorNumber="170" uuid="2c6275ea-0565-436b-ab9a-ac17c465e14b"/>
-        <card number="1" name="Steam Vents" setShortName="SLD" collectorNumber="129" uuid="d516b248-c0be-4c49-83ab-393354c33563"/>
-        <card number="1" name="Swamp" setShortName="J25" collectorNumber="88" uuid="babd424c-38cf-45e8-9684-de7bfc1ed86a"/>
-        <card number="1" name="Underground River" setShortName="DSC" collectorNumber="321" uuid="5e50c8d5-6b22-4fc6-87ea-3d7d77ced17f"/>
-        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="PLST" collectorNumber="UMA-254" uuid="a9ca5e42-889a-411f-a27c-86eca801eefe"/>
-        <card number="1" name="Vault of Whispers" setShortName="40K" collectorNumber="305" uuid="4dca7b45-164d-4181-9585-5d0f3b6a6927"/>
-        <card number="1" name="Watery Grave" setShortName="SLD" collectorNumber="124" uuid="67ef01b3-93f7-41e8-834d-9f6768e3b16c"/>
-        <card number="1" name="Daretti, Ingenious Iconoclast" setShortName="PZ2" collectorNumber="66" uuid="dcdba056-6d0c-4ed2-bc3f-f690e39d1ef7"/>
-        <card number="1" name="Tezzeret the Seeker" setShortName="MM2" collectorNumber="62" uuid="cf339735-eb1a-46f0-8c3e-eae06f278eca"/>
-        <card number="1" name="Diabolic Tutor" setShortName="KLD" collectorNumber="75" uuid="06750380-a9a9-4ab4-a03b-d4d35a31132a"/>
-        <card number="1" name="Grim Tutor" setShortName="PM21" collectorNumber="103s" uuid="d643a70d-2a30-4d3e-b441-58d342181685"/>
-        <card number="1" name="Sea Gate Restoration" setShortName="ZNR" collectorNumber="76" uuid="193071fe-180b-4d35-ba78-9c16675c29fc"/>
-        <card number="1" name="Vandalblast" setShortName="OTC" collectorNumber="183" uuid="e781b55f-6388-4ab8-be74-7c56eaba1c4d"/>
-        <card number="1" name="Vindicate" setShortName="MH2" collectorNumber="294" uuid="683c4e13-525c-45c9-8832-bfe67965c34e"/>
-        <card number="1" name="Wurmcoil Engine" setShortName="PW21" collectorNumber="3" uuid="2daa42ef-0981-4e4f-9916-b6a3d227943f"/>
-        <card number="1" name="Krark-Clan Ironworks" setShortName="5DN" collectorNumber="134" uuid="c60174d6-1f9d-4870-b3db-34d6fcb3f6ab"/>
-        <card number="1" name="Basalt Monolith" setShortName="30A" collectorNumber="227" uuid="574540bc-d654-4363-b1f5-31bd0891b377"/>
-        <card number="1" name="Aetherflux Reservoir" setShortName="KLR" collectorNumber="217" uuid="fe0c708d-771f-4356-8525-932d2690989b"/>
-    </zone>
+  <tags/>
+  <zone name="main">
+    <card number="1" name="Breya, Etherium Shaper"/>
+    <card number="1" name="Academy Ruins"/>
+    <card number="1" name="Adarkar Wastes"/>
+    <card number="1" name="Altar of the Brood"/>
+    <card number="1" name="Arcum Dagsson"/>
+    <card number="1" name="Ashnod's Altar"/>
+    <card number="1" name="Azorius Signet"/>
+    <card number="1" name="Chromatic Lantern"/>
+    <card number="1" name="Command Tower"/>
+    <card number="1" name="Crumbling Necropolis"/>
+    <card number="1" name="Dack Fayden"/>
+    <card number="1" name="Daretti, Scrap Savant"/>
+    <card number="1" name="Demonic Tutor"/>
+    <card number="1" name="Diabolic Revelation"/>
+    <card number="1" name="Dimir Signet"/>
+    <card number="1" name="Disciple of the Vault"/>
+    <card number="1" name="Dispatch"/>
+    <card number="1" name="Eldrazi Displacer"/>
+    <card number="1" name="Felidar Guardian"/>
+    <card number="1" name="Grand Architect"/>
+    <card number="1" name="Impact Tremors"/>
+    <card number="1" name="Izzet Signet"/>
+    <card number="1" name="Lightning Greaves"/>
+    <card number="1" name="Mana Echoes"/>
+    <card number="1" name="Nim Deathmantle"/>
+    <card number="1" name="Nomad Outpost"/>
+    <card number="1" name="Open the Vaults"/>
+    <card number="1" name="Orzhov Signet"/>
+    <card number="1" name="Padeem, Consul of Innovation"/>
+    <card number="1" name="Path to Exile"/>
+    <card number="1" name="Phyrexian Metamorph"/>
+    <card number="1" name="Purphoros, God of the Forge"/>
+    <card number="1" name="Rakdos Signet"/>
+    <card number="1" name="Reckless Fireweaver"/>
+    <card number="1" name="Restoration Angel"/>
+    <card number="1" name="Saheeli Rai"/>
+    <card number="1" name="Sculpting Steel"/>
+    <card number="1" name="Sensei's Divining Top"/>
+    <card number="1" name="Skullclamp"/>
+    <card number="1" name="Sol Ring"/>
+    <card number="1" name="Spine of Ish Sah"/>
+    <card number="1" name="Sword of the Meek"/>
+    <card number="1" name="Sydri, Galvanic Genius"/>
+    <card number="1" name="Thopter Assembly"/>
+    <card number="1" name="Thopter Foundry"/>
+    <card number="1" name="Thopter Spy Network"/>
+    <card number="1" name="Time Sieve"/>
+    <card number="1" name="Zulaport Cutthroat"/>
+    <card number="1" name="Mindslaver" setShortName="PLST" collectorNumber="MRD-206" uuid="c7c69630-eb56-4d62-ad14-556555ac14fe"/>
+    <card number="1" name="Rings of Brighthearth" setShortName="CMR" collectorNumber="698" uuid="1dbc00c6-5df2-4953-95c2-6c79dc86f409"/>
+    <card number="1" name="Goblin Welder" setShortName="DDU" collectorNumber="35" uuid="17be21c8-d7bb-405e-addd-5aba1125b709"/>
+    <card number="1" name="Sharuum the Hegemon" setShortName="2XM" collectorNumber="219" uuid="af80ef38-ab95-476f-b0dd-b5ef3e9bceab"/>
+    <card number="1" name="Rhystic Study" setShortName="J22" collectorNumber="114" uuid="9f37c5b6-a59c-45cd-9a99-e9357fe9ea1b"/>
+    <card number="1" name="Anguished Unmaking" setShortName="PIP" collectorNumber="737" uuid="5b230483-dcdd-4731-b98c-cbb8c221de6b"/>
+    <card number="1" name="Cyclonic Rift" setShortName="RVR" collectorNumber="40" uuid="dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe"/>
+    <card number="1" name="Enlightened Tutor" setShortName="DMR" collectorNumber="6" uuid="1c9675fb-1a89-420f-aea8-50e0642f549c"/>
+    <card number="1" name="Muddle the Mixture" setShortName="PLST" collectorNumber="RAV-60" uuid="79fc4b92-0efe-4370-a2b3-2155c458a966"/>
+    <card number="1" name="Mystical Tutor" setShortName="DMR" collectorNumber="60" uuid="36fa9a0b-b0c9-43ea-ba11-99d7982f974e"/>
+    <card number="1" name="Sphinx's Revelation" setShortName="RVR" collectorNumber="228" uuid="5579d2d6-b34b-44a2-8b72-9f18938a18a0"/>
+    <card number="1" name="Vampiric Tutor" setShortName="DMR" collectorNumber="108" uuid="34a0203f-9cce-43a4-9cb7-8ce6647895cd"/>
+    <card number="1" name="Ancient Den" setShortName="C21" collectorNumber="276" uuid="0a508907-a127-45cd-898a-e936bc08391f"/>
+    <card number="1" name="Arcane Sanctum" setShortName="DRC" collectorNumber="146" uuid="b57164a6-aca8-4cd2-9b40-1c10f13c1c6b"/>
+    <card number="1" name="Arid Mesa" setShortName="PMH2" collectorNumber="244s" uuid="64a6c831-18a5-44d1-aac4-afb018bc93c7"/>
+    <card number="1" name="Blood Crypt" setShortName="RVR" collectorNumber="273" uuid="0994aef4-b341-45f4-8881-523565a5956e"/>
+    <card number="1" name="Boseiju, Who Shelters All" setShortName="V12" collectorNumber="2" uuid="e01b7141-9576-445b-bcd4-00d79850a4dd"/>
+    <card number="1" name="Cavern of Souls" setShortName="LCI" collectorNumber="269" uuid="3aad15a2-8a1b-4460-9b06-e85863081878"/>
+    <card number="1" name="Caves of Koilos" setShortName="DRC" collectorNumber="148" uuid="18e5a0d3-d132-40e2-85ae-a1b743dfdd33"/>
+    <card number="1" name="Flooded Strand" setShortName="PMH3" collectorNumber="220s" uuid="b817ec56-51cb-42b0-a46b-914a6d4b5582"/>
+    <card number="1" name="Glimmervoid" setShortName="2XM" collectorNumber="319" uuid="4a639687-d9e3-46a8-bc9f-6ca3912c46ab"/>
+    <card number="1" name="Godless Shrine" setShortName="SLD" collectorNumber="128" uuid="e2c39866-98c2-4c60-98e1-eaf8e40b2d29"/>
+    <card number="1" name="Great Furnace" setShortName="C21" collectorNumber="292" uuid="f0ac295e-93e4-490b-b8a3-a9794c7f56e4"/>
+    <card number="1" name="Hallowed Fountain" setShortName="RVR" collectorNumber="280" uuid="cd70adab-39db-4cc9-ae37-a342f9109bec"/>
+    <card number="1" name="Inventors' Fair" setShortName="KLR" collectorNumber="284" uuid="c379f057-46ed-474e-83b1-72b843901864"/>
+    <card number="1" name="Island" setShortName="DFT" collectorNumber="281" uuid="f9369d0a-87c0-4c29-b43c-cd45c007f8d6"/>
+    <card number="1" name="Marsh Flats" setShortName="PMH2" collectorNumber="248s" uuid="2b076441-b770-4a06-97ac-34a52822f4c0"/>
+    <card number="1" name="Mountain" setShortName="DFT" collectorNumber="288" uuid="653e2393-30a7-4e0c-bd20-f05ca0ba3cb6"/>
+    <card number="1" name="Mystic Monastery" setShortName="BLC" collectorNumber="318" uuid="c59b9295-1802-4452-ae8b-72adeb566c3a"/>
+    <card number="1" name="Mystic Monastery" setShortName="KTK" collectorNumber="236y" uuid="aef570e6-b522-48f5-b253-bffb05fd9b87"/>
+    <card number="1" name="Plains" setShortName="DFT" collectorNumber="277" uuid="464723b3-0723-45f2-a258-32d098c39039"/>
+    <card number="1" name="Polluted Delta" setShortName="PRM" collectorNumber="43582" uuid="bf0cce8a-d391-4a63-b701-a1abce082b77"/>
+    <card number="1" name="Sacred Foundry" setShortName="SLD" collectorNumber="131" uuid="52e55b85-92c1-4b83-9a9d-4afb8e938e4f"/>
+    <card number="1" name="Seat of the Synod" setShortName="J25" collectorNumber="773" uuid="f0cff35c-de07-4465-b3da-efe4a78eb6d0"/>
+    <card number="1" name="Shivan Reef" setShortName="DRC" collectorNumber="170" uuid="2c6275ea-0565-436b-ab9a-ac17c465e14b"/>
+    <card number="1" name="Steam Vents" setShortName="SLD" collectorNumber="129" uuid="d516b248-c0be-4c49-83ab-393354c33563"/>
+    <card number="1" name="Swamp" setShortName="J25" collectorNumber="88" uuid="babd424c-38cf-45e8-9684-de7bfc1ed86a"/>
+    <card number="1" name="Underground River" setShortName="DSC" collectorNumber="321" uuid="5e50c8d5-6b22-4fc6-87ea-3d7d77ced17f"/>
+    <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="PLST" collectorNumber="UMA-254" uuid="a9ca5e42-889a-411f-a27c-86eca801eefe"/>
+    <card number="1" name="Vault of Whispers" setShortName="40K" collectorNumber="305" uuid="4dca7b45-164d-4181-9585-5d0f3b6a6927"/>
+    <card number="1" name="Watery Grave" setShortName="SLD" collectorNumber="124" uuid="67ef01b3-93f7-41e8-834d-9f6768e3b16c"/>
+    <card number="1" name="Daretti, Ingenious Iconoclast" setShortName="PZ2" collectorNumber="66" uuid="dcdba056-6d0c-4ed2-bc3f-f690e39d1ef7"/>
+    <card number="1" name="Tezzeret the Seeker" setShortName="MM2" collectorNumber="62" uuid="cf339735-eb1a-46f0-8c3e-eae06f278eca"/>
+    <card number="1" name="Diabolic Tutor" setShortName="KLD" collectorNumber="75" uuid="06750380-a9a9-4ab4-a03b-d4d35a31132a"/>
+    <card number="1" name="Grim Tutor" setShortName="PM21" collectorNumber="103s" uuid="d643a70d-2a30-4d3e-b441-58d342181685"/>
+    <card number="1" name="Sea Gate Restoration" setShortName="ZNR" collectorNumber="76" uuid="193071fe-180b-4d35-ba78-9c16675c29fc"/>
+    <card number="1" name="Vandalblast" setShortName="OTC" collectorNumber="183" uuid="e781b55f-6388-4ab8-be74-7c56eaba1c4d"/>
+    <card number="1" name="Vindicate" setShortName="MH2" collectorNumber="294" uuid="683c4e13-525c-45c9-8832-bfe67965c34e"/>
+    <card number="1" name="Wurmcoil Engine" setShortName="PW21" collectorNumber="3" uuid="2daa42ef-0981-4e4f-9916-b6a3d227943f"/>
+    <card number="1" name="Krark-Clan Ironworks" setShortName="5DN" collectorNumber="134" uuid="c60174d6-1f9d-4870-b3db-34d6fcb3f6ab"/>
+    <card number="1" name="Basalt Monolith" setShortName="30A" collectorNumber="227" uuid="574540bc-d654-4363-b1f5-31bd0891b377"/>
+    <card number="1" name="Aetherflux Reservoir" setShortName="KLR" collectorNumber="217" uuid="fe0c708d-771f-4356-8525-932d2690989b"/>
+  </zone>
 </cockatrice_deck>

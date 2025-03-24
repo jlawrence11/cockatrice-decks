@@ -1,91 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Mar 20 19:55:17 2025</lastLoadedTimestamp>
-    <deckname>Pirates</deckname>
-    <bannerCard providerId="">Breeches, the Blastmaker</bannerCard>
-    <comments>Format: EDH
+  <deckname>Pirates</deckname>
+  <bannerCard providerId="">Breeches, the Blastmaker</bannerCard>
+  <comments>Format: EDH
 CDR: Breeches, the Blastmaker
 Alt CDR: Captain Storm, Cosmium Raider
 Colors: UR</comments>
-    <tags/>
-    <zone name="main">
-        <card number="1" name="Abrade"/>
-        <card number="1" name="Admiral's Order"/>
-        <card number="1" name="Angrath's Marauders"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Brass's Bounty"/>
-        <card number="1" name="Brazen Freebooter"/>
-        <card number="1" name="Breeches, Eager Pillager"/>
-        <card number="1" name="Captain Storm, Cosmium Raider"/>
-        <card number="1" name="Captain's Hook"/>
-        <card number="1" name="Captivating Crew"/>
-        <card number="1" name="Chart a Course"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Conqueror's Galleon"/>
-        <card number="1" name="Corsair Captain"/>
-        <card number="1" name="Crafty Cutpurse"/>
-        <card number="1" name="Daring Saboteur"/>
-        <card number="1" name="Deadeye Quartermaster"/>
-        <card number="1" name="Deadeye Rig-Hauler"/>
-        <card number="1" name="Demolition Field"/>
-        <card number="1" name="Dreamcaller Siren"/>
-        <card number="1" name="Dusk Legion Dreadnought"/>
-        <card number="1" name="Fell Flagship"/>
-        <card number="1" name="Fiery Cannonade"/>
-        <card number="1" name="Frostboil Snarl"/>
-        <card number="1" name="Hornswoggle"/>
-        <card number="13" name="Island"/>
-        <card number="1" name="Kitesail Corsair"/>
-        <card number="1" name="Kitesail Larcenist"/>
-        <card number="1" name="Lightning-Rig Crew"/>
-        <card number="1" name="Lookout's Dispersal"/>
-        <card number="1" name="Malcolm, Alluring Scoundrel"/>
-        <card number="1" name="Marauding Looter"/>
-        <card number="12" name="Mountain"/>
-        <card number="1" name="Opt"/>
-        <card number="1" name="Pirate Hat"/>
-        <card number="1" name="Pirate's Cutlass"/>
-        <card number="1" name="Pirate's Pillage"/>
-        <card number="1" name="Pirate's Prize"/>
-        <card number="1" name="Prosperous Pirates"/>
-        <card number="1" name="Raiders' Karve"/>
-        <card number="1" name="Sailor of Means"/>
-        <card number="1" name="Siren's Ruse"/>
-        <card number="1" name="Slippery Scoundrel"/>
-        <card number="1" name="Spectral Sailor"/>
-        <card number="1" name="Spell Swindle"/>
-        <card number="1" name="Storm Fleet Sprinter"/>
-        <card number="1" name="Storm Fleet Spy"/>
-        <card number="1" name="Storm the Vault"/>
-        <card number="1" name="Sulfur Falls"/>
-        <card number="1" name="The Belligerent"/>
-        <card number="1" name="Thespian's Stage"/>
-        <card number="1" name="Treasure Map"/>
-        <card number="1" name="Vance's Blasting Cannons"/>
-        <card number="1" name="Warkite Marauder"/>
-        <card number="1" name="Zephyr Singer"/>
-        <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Opal Palace"/>
-        <card number="1" name="Sapphire Medallion"/>
-        <card number="1" name="Ruby Medallion"/>
-        <card number="1" name="Unsummon"/>
-        <card number="1" name="Izzet Boilerworks"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Reckless Lackey"/>
-        <card number="1" name="Fanatical Firebrand"/>
-        <card number="1" name="Kari Zev, Skyship Raider"/>
-        <card number="1" name="Ragavan, Nimble Pilferer"/>
-        <card number="1" name="Timestream Navigator"/>
-        <card number="1" name="Staunch Crewmate"/>
-        <card number="1" name="Malcolm, the Eyes"/>
-        <card number="1" name="Protean Raider"/>
-        <card number="1" name="Breeches, the Blastmaker"/>
-        <card number="1" name="Captain Ripley Vance"/>
-        <card number="1" name="Siren Stormtamer"/>
-        <card number="1" name="Pirated Copy"/>
-    </zone>
+  <tags/>
+  <zone name="main">
+    <card number="1" name="Abrade"/>
+    <card number="1" name="Admiral's Order"/>
+    <card number="1" name="Angrath's Marauders"/>
+    <card number="1" name="Arcane Signet"/>
+    <card number="1" name="Brass's Bounty"/>
+    <card number="1" name="Brazen Freebooter"/>
+    <card number="1" name="Breeches, Eager Pillager"/>
+    <card number="1" name="Captain Storm, Cosmium Raider"/>
+    <card number="1" name="Captain's Hook"/>
+    <card number="1" name="Captivating Crew"/>
+    <card number="1" name="Chart a Course"/>
+    <card number="1" name="Command Tower"/>
+    <card number="1" name="Conqueror's Galleon"/>
+    <card number="1" name="Corsair Captain"/>
+    <card number="1" name="Crafty Cutpurse"/>
+    <card number="1" name="Daring Saboteur"/>
+    <card number="1" name="Deadeye Quartermaster"/>
+    <card number="1" name="Deadeye Rig-Hauler"/>
+    <card number="1" name="Demolition Field"/>
+    <card number="1" name="Dreamcaller Siren"/>
+    <card number="1" name="Dusk Legion Dreadnought"/>
+    <card number="1" name="Fell Flagship"/>
+    <card number="1" name="Fiery Cannonade"/>
+    <card number="1" name="Frostboil Snarl"/>
+    <card number="1" name="Hornswoggle"/>
+    <card number="13" name="Island"/>
+    <card number="1" name="Kitesail Corsair"/>
+    <card number="1" name="Kitesail Larcenist"/>
+    <card number="1" name="Lightning-Rig Crew"/>
+    <card number="1" name="Lookout's Dispersal"/>
+    <card number="1" name="Malcolm, Alluring Scoundrel"/>
+    <card number="1" name="Marauding Looter"/>
+    <card number="12" name="Mountain"/>
+    <card number="1" name="Opt"/>
+    <card number="1" name="Pirate Hat"/>
+    <card number="1" name="Pirate's Cutlass"/>
+    <card number="1" name="Pirate's Pillage"/>
+    <card number="1" name="Pirate's Prize"/>
+    <card number="1" name="Prosperous Pirates"/>
+    <card number="1" name="Raiders' Karve"/>
+    <card number="1" name="Sailor of Means"/>
+    <card number="1" name="Siren's Ruse"/>
+    <card number="1" name="Slippery Scoundrel"/>
+    <card number="1" name="Spectral Sailor"/>
+    <card number="1" name="Spell Swindle"/>
+    <card number="1" name="Storm Fleet Sprinter"/>
+    <card number="1" name="Storm Fleet Spy"/>
+    <card number="1" name="Storm the Vault"/>
+    <card number="1" name="Sulfur Falls"/>
+    <card number="1" name="The Belligerent"/>
+    <card number="1" name="Thespian's Stage"/>
+    <card number="1" name="Treasure Map"/>
+    <card number="1" name="Vance's Blasting Cannons"/>
+    <card number="1" name="Warkite Marauder"/>
+    <card number="1" name="Zephyr Singer"/>
+    <card number="1" name="Myriad Landscape"/>
+    <card number="1" name="Evolving Wilds"/>
+    <card number="1" name="Terramorphic Expanse"/>
+    <card number="1" name="Rogue's Passage"/>
+    <card number="1" name="Maze of Ith"/>
+    <card number="1" name="Opal Palace"/>
+    <card number="1" name="Sapphire Medallion"/>
+    <card number="1" name="Ruby Medallion"/>
+    <card number="1" name="Unsummon"/>
+    <card number="1" name="Izzet Boilerworks"/>
+    <card number="1" name="Sol Ring"/>
+    <card number="1" name="Reckless Lackey"/>
+    <card number="1" name="Fanatical Firebrand"/>
+    <card number="1" name="Kari Zev, Skyship Raider"/>
+    <card number="1" name="Ragavan, Nimble Pilferer"/>
+    <card number="1" name="Timestream Navigator"/>
+    <card number="1" name="Staunch Crewmate"/>
+    <card number="1" name="Malcolm, the Eyes"/>
+    <card number="1" name="Protean Raider"/>
+    <card number="1" name="Breeches, the Blastmaker"/>
+    <card number="1" name="Captain Ripley Vance"/>
+    <card number="1" name="Siren Stormtamer"/>
+    <card number="1" name="Pirated Copy"/>
+  </zone>
 </cockatrice_deck>

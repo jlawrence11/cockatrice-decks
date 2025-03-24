@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Mar 20 14:58:02 2025</lastLoadedTimestamp>
-    <deckname>Luigi</deckname>
-    <bannerCard providerId="">Oloro, Ageless Ascetic</bannerCard>
-    <comments>&quot;Delay. Deny. Depose.&quot;
+  <deckname>Luigi</deckname>
+  <bannerCard providerId="">Oloro, Ageless Ascetic</bannerCard>
+  <comments>"Delay. Deny. Depose."
 CDR: Oloro, Ageless Ascetic
 Colors: W, Bu, B
 Est $6.1k
@@ -12,107 +11,107 @@ URL: https://tappedout.net/mtg-decks/sorrynotsorry/
 2025-01-14
 removed: Children of Korlis
 Added: Avacyn, Angel of Hope</comments>
-    <tags/>
-    <zone name="main">
-        <card number="1" name="Academy Rector"/>
-        <card number="1" name="Academy Ruins"/>
-        <card number="1" name="Ad Nauseam"/>
-        <card number="1" name="Aetherflux Reservoir"/>
-        <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Ancient Tomb"/>
-        <card number="1" name="Angel's Grace"/>
-        <card number="1" name="Anointed Procession"/>
-        <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Ashiok, Dream Render"/>
-        <card number="1" name="Aura of Silence"/>
-        <card number="1" name="Austere Command"/>
-        <card number="1" name="Black Market Connections"/>
-        <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Bolas's Citadel"/>
-        <card number="1" name="Boseiju, Who Shelters All"/>
-        <card number="1" name="Chromatic Lantern"/>
-        <card number="1" name="City of Brass"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Cyclonic Rift"/>
-        <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Dovin's Veto"/>
-        <card number="1" name="Dovin, Hand of Control"/>
-        <card number="1" name="Enlightened Tutor"/>
-        <card number="1" name="Esper Sentinel"/>
-        <card number="1" name="Faith's Reward"/>
-        <card number="1" name="Flooded Strand"/>
-        <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Grasp of Fate"/>
-        <card number="1" name="Greater Auramancy"/>
-        <card number="1" name="Hall of Heliod's Generosity"/>
-        <card number="1" name="Hallowed Fountain"/>
-        <card number="1" name="Humility"/>
-        <card number="1" name="Imperial Seal"/>
-        <card number="1" name="Island"/>
-        <card number="1" name="Karmic Justice"/>
-        <card number="1" name="Leyline of Anticipation"/>
-        <card number="1" name="Life Insurance"/>
-        <card number="1" name="Mana Confluence"/>
-        <card number="1" name="Mana Drain"/>
-        <card number="1" name="Mana Web"/>
-        <card number="1" name="Marsh Flats"/>
-        <card number="1" name="Mechanized Production"/>
-        <card number="1" name="Merciless Eviction"/>
-        <card number="1" name="Misty Rainforest"/>
-        <card number="1" name="Moat"/>
-        <card number="1" name="Monologue Tax"/>
-        <card number="1" name="Muddle the Mixture"/>
-        <card number="1" name="Mystic Remora"/>
-        <card number="1" name="Mystical Tutor"/>
-        <card number="1" name="Narset's Reversal"/>
-        <card number="1" name="Oloro, Ageless Ascetic"/>
-        <card number="1" name="Overburden"/>
-        <card number="1" name="Pact of Negation"/>
-        <card number="1" name="Paradox Haze"/>
-        <card number="1" name="Plains"/>
-        <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Reflecting Pool"/>
-        <card number="1" name="Replenish"/>
-        <card number="1" name="Return to Dust"/>
-        <card number="1" name="Revel in Riches"/>
-        <card number="1" name="Rhystic Study"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="1" name="Scrubland"/>
-        <card number="1" name="Sensei's Divining Top"/>
-        <card number="1" name="Serra's Sanctum"/>
-        <card number="1" name="Smuggler's Share"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Sphinx's Revelation"/>
-        <card number="1" name="Strip Mine"/>
-        <card number="1" name="Supreme Verdict"/>
-        <card number="1" name="Swamp"/>
-        <card number="1" name="Teferi, Time Raveler"/>
-        <card number="1" name="Terminus"/>
-        <card number="1" name="The One Ring"/>
-        <card number="1" name="The Tabernacle at Pendrell Vale"/>
-        <card number="1" name="Tolaria West"/>
-        <card number="1" name="Torpor Orb"/>
-        <card number="1" name="Toxic Deluge"/>
-        <card number="1" name="Treasure Vault"/>
-        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" name="Vampiric Tutor"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Vizkopa Guildmage"/>
-        <card number="1" name="Wasteland"/>
-        <card number="1" name="Watery Grave"/>
-        <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Tormod's Crypt"/>
-        <card number="1" name="Avacyn, Angel of Hope"/>
-        <card number="1" name="Smothering Tithe" setShortName="WOT" collectorNumber="67" uuid="58178dd4-c61e-4017-b2e6-2d8308ded4fd"/>
-        <card number="1" name="Talisman of Dominance" setShortName="WHO" collectorNumber="841" uuid="e195d8cd-8c26-460d-85fc-964931a89b0b"/>
-        <card number="1" name="Talisman of Hierarchy" setShortName="PIP" collectorNumber="775" uuid="77e890d8-6542-4d8e-9782-94fb5a74e244"/>
-        <card number="1" name="Talisman of Progress" setShortName="WHO" collectorNumber="844" uuid="254a7fd9-0c09-4d61-8440-b9a82b71930a"/>
-        <card number="1" name="Tangle Wire" setShortName="V13" collectorNumber="8" uuid="74d29b3d-f588-431d-bf4e-f7215683ab39"/>
-        <card number="1" name="Necropotence" setShortName="WOT" collectorNumber="31" uuid="ff727bfb-8cd8-43dd-afdf-eb74a4631eac"/>
-        <card number="1" name="Force of Will" setShortName="VMA" collectorNumber="69" uuid="532e9a34-b908-44cf-9623-b946196c6276"/>
-        <card number="1" name="Swan Song" setShortName="SLD" collectorNumber="1591" uuid="b2d1219f-fadb-4427-8627-e5aef3589600"/>
-        <card number="1" name="Tundra" setShortName="VMA" collectorNumber="322" uuid="efd35cb4-862d-4699-a197-b744989b3ceb"/>
-        <card number="1" name="Underground Sea" setShortName="VMA" collectorNumber="323" uuid="26cee543-6eab-494e-a803-33a5d48d7d74"/>
-        <card number="1" name="Farewell" setShortName="WHO" collectorNumber="798" uuid="9b6b2f41-4ee6-4eb7-a01f-155a3752d150"/>
-    </zone>
+  <tags/>
+  <zone name="main">
+    <card number="1" name="Academy Rector"/>
+    <card number="1" name="Academy Ruins"/>
+    <card number="1" name="Ad Nauseam"/>
+    <card number="1" name="Aetherflux Reservoir"/>
+    <card number="1" name="An Offer You Can't Refuse"/>
+    <card number="1" name="Ancient Tomb"/>
+    <card number="1" name="Angel's Grace"/>
+    <card number="1" name="Anointed Procession"/>
+    <card number="1" name="Arid Mesa"/>
+    <card number="1" name="Ashiok, Dream Render"/>
+    <card number="1" name="Aura of Silence"/>
+    <card number="1" name="Austere Command"/>
+    <card number="1" name="Black Market Connections"/>
+    <card number="1" name="Bloodstained Mire"/>
+    <card number="1" name="Bolas's Citadel"/>
+    <card number="1" name="Boseiju, Who Shelters All"/>
+    <card number="1" name="Chromatic Lantern"/>
+    <card number="1" name="City of Brass"/>
+    <card number="1" name="Command Tower"/>
+    <card number="1" name="Cyclonic Rift"/>
+    <card number="1" name="Demonic Tutor"/>
+    <card number="1" name="Dovin's Veto"/>
+    <card number="1" name="Dovin, Hand of Control"/>
+    <card number="1" name="Enlightened Tutor"/>
+    <card number="1" name="Esper Sentinel"/>
+    <card number="1" name="Faith's Reward"/>
+    <card number="1" name="Flooded Strand"/>
+    <card number="1" name="Godless Shrine"/>
+    <card number="1" name="Grasp of Fate"/>
+    <card number="1" name="Greater Auramancy"/>
+    <card number="1" name="Hall of Heliod's Generosity"/>
+    <card number="1" name="Hallowed Fountain"/>
+    <card number="1" name="Humility"/>
+    <card number="1" name="Imperial Seal"/>
+    <card number="1" name="Island"/>
+    <card number="1" name="Karmic Justice"/>
+    <card number="1" name="Leyline of Anticipation"/>
+    <card number="1" name="Life Insurance"/>
+    <card number="1" name="Mana Confluence"/>
+    <card number="1" name="Mana Drain"/>
+    <card number="1" name="Mana Web"/>
+    <card number="1" name="Marsh Flats"/>
+    <card number="1" name="Mechanized Production"/>
+    <card number="1" name="Merciless Eviction"/>
+    <card number="1" name="Misty Rainforest"/>
+    <card number="1" name="Moat"/>
+    <card number="1" name="Monologue Tax"/>
+    <card number="1" name="Muddle the Mixture"/>
+    <card number="1" name="Mystic Remora"/>
+    <card number="1" name="Mystical Tutor"/>
+    <card number="1" name="Narset's Reversal"/>
+    <card number="1" name="Oloro, Ageless Ascetic"/>
+    <card number="1" name="Overburden"/>
+    <card number="1" name="Pact of Negation"/>
+    <card number="1" name="Paradox Haze"/>
+    <card number="1" name="Plains"/>
+    <card number="1" name="Polluted Delta"/>
+    <card number="1" name="Reflecting Pool"/>
+    <card number="1" name="Replenish"/>
+    <card number="1" name="Return to Dust"/>
+    <card number="1" name="Revel in Riches"/>
+    <card number="1" name="Rhystic Study"/>
+    <card number="1" name="Scalding Tarn"/>
+    <card number="1" name="Scrubland"/>
+    <card number="1" name="Sensei's Divining Top"/>
+    <card number="1" name="Serra's Sanctum"/>
+    <card number="1" name="Smuggler's Share"/>
+    <card number="1" name="Sol Ring"/>
+    <card number="1" name="Sphinx's Revelation"/>
+    <card number="1" name="Strip Mine"/>
+    <card number="1" name="Supreme Verdict"/>
+    <card number="1" name="Swamp"/>
+    <card number="1" name="Teferi, Time Raveler"/>
+    <card number="1" name="Terminus"/>
+    <card number="1" name="The One Ring"/>
+    <card number="1" name="The Tabernacle at Pendrell Vale"/>
+    <card number="1" name="Tolaria West"/>
+    <card number="1" name="Torpor Orb"/>
+    <card number="1" name="Toxic Deluge"/>
+    <card number="1" name="Treasure Vault"/>
+    <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+    <card number="1" name="Vampiric Tutor"/>
+    <card number="1" name="Verdant Catacombs"/>
+    <card number="1" name="Vizkopa Guildmage"/>
+    <card number="1" name="Wasteland"/>
+    <card number="1" name="Watery Grave"/>
+    <card number="1" name="Windswept Heath"/>
+    <card number="1" name="Tormod's Crypt"/>
+    <card number="1" name="Avacyn, Angel of Hope"/>
+    <card number="1" name="Smothering Tithe" setShortName="WOT" collectorNumber="67" uuid="58178dd4-c61e-4017-b2e6-2d8308ded4fd"/>
+    <card number="1" name="Talisman of Dominance" setShortName="WHO" collectorNumber="841" uuid="e195d8cd-8c26-460d-85fc-964931a89b0b"/>
+    <card number="1" name="Talisman of Hierarchy" setShortName="PIP" collectorNumber="775" uuid="77e890d8-6542-4d8e-9782-94fb5a74e244"/>
+    <card number="1" name="Talisman of Progress" setShortName="WHO" collectorNumber="844" uuid="254a7fd9-0c09-4d61-8440-b9a82b71930a"/>
+    <card number="1" name="Tangle Wire" setShortName="V13" collectorNumber="8" uuid="74d29b3d-f588-431d-bf4e-f7215683ab39"/>
+    <card number="1" name="Necropotence" setShortName="WOT" collectorNumber="31" uuid="ff727bfb-8cd8-43dd-afdf-eb74a4631eac"/>
+    <card number="1" name="Force of Will" setShortName="VMA" collectorNumber="69" uuid="532e9a34-b908-44cf-9623-b946196c6276"/>
+    <card number="1" name="Swan Song" setShortName="SLD" collectorNumber="1591" uuid="b2d1219f-fadb-4427-8627-e5aef3589600"/>
+    <card number="1" name="Tundra" setShortName="VMA" collectorNumber="322" uuid="efd35cb4-862d-4699-a197-b744989b3ceb"/>
+    <card number="1" name="Underground Sea" setShortName="VMA" collectorNumber="323" uuid="26cee543-6eab-494e-a803-33a5d48d7d74"/>
+    <card number="1" name="Farewell" setShortName="WHO" collectorNumber="798" uuid="9b6b2f41-4ee6-4eb7-a01f-155a3752d150"/>
+  </zone>
 </cockatrice_deck>

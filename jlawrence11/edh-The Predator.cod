@@ -1,105 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Mar 20 20:37:07 2025</lastLoadedTimestamp>
-    <deckname>The Predator</deckname>
-    <bannerCard providerId="">Zacama, Primal Calamity</bannerCard>
-    <comments>CDR: Zacama, Primal Calamity
+  <deckname>The Predator</deckname>
+  <bannerCard providerId="">Zacama, Primal Calamity</bannerCard>
+  <comments>CDR: Zacama, Primal Calamity
 Colors: RGW
 Est $1.7k
 URL: https://tappedout.net/mtg-decks/the-predator-of-predators/
 
 Dinosaur!!</comments>
-    <tags/>
-    <zone name="main">
-        <card number="1" name="Zacama, Primal Calamity"/>
-        <card number="1" name="Ancient Tomb"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Battlefield Forge"/>
-        <card number="1" name="Boseiju, Who Endures"/>
-        <card number="1" name="Brushland"/>
-        <card number="1" name="Castle Garenbrig"/>
-        <card number="1" name="Cavern of Souls"/>
-        <card number="1" name="City of Brass"/>
-        <card number="1" name="Cloudstone Curio"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Cultivate"/>
-        <card number="1" name="Curious Altisaur"/>
-        <card number="1" name="Deflecting Swat"/>
-        <card number="1" name="Eladamri's Call"/>
-        <card number="1" name="Elemental Bond"/>
-        <card number="1" name="Enlightened Tutor"/>
-        <card number="1" name="Etali, Primal Conqueror"/>
-        <card number="1" name="Etali, Primal Storm"/>
-        <card number="1" name="Farseek"/>
-        <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Finale of Devastation"/>
-        <card number="1" name="Fire-Lit Thicket"/>
-        <card number="1" name="Flawless Maneuver"/>
-        <card number="1" name="Forerunner of the Empire"/>
-        <card number="10" name="Forest"/>
-        <card number="1" name="Garruk's Uprising"/>
-        <card number="1" name="Gishath, Sun's Avatar"/>
-        <card number="1" name="Growing Rites of Itlimoc"/>
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Homeward Path"/>
-        <card number="1" name="Huatli, Warrior Poet"/>
-        <card number="1" name="Hunting Velociraptor"/>
-        <card number="1" name="Jeska's Will"/>
-        <card number="1" name="Karplusan Forest"/>
-        <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Mana Confluence"/>
-        <card number="1" name="Marauding Raptor"/>
-        <card number="1" name="Meticulous Excavation"/>
-        <card number="1" name="Mirari's Wake"/>
-        <card number="2" name="Mountain"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Pantlaza, Sun-Favored"/>
-        <card number="1" name="Plains"/>
-        <card number="1" name="Plateau"/>
-        <card number="1" name="Polyraptor"/>
-        <card number="1" name="Pyrohemia"/>
-        <card number="1" name="Rampant Growth"/>
-        <card number="1" name="Ranging Raptors"/>
-        <card number="1" name="Reflecting Pool"/>
-        <card number="1" name="Regal Behemoth"/>
-        <card number="1" name="Regisaur Alpha"/>
-        <card number="1" name="Rhythm of the Wild"/>
-        <card number="1" name="Ripjaw Raptor"/>
-        <card number="1" name="Rite of Passage"/>
-        <card number="1" name="Roaming Throne"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Sanctum of Eternity"/>
-        <card number="1" name="Savannah"/>
-        <card number="1" name="Silverclad Ferocidons"/>
-        <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Smothering Tithe"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="1" name="Stomping Ground"/>
-        <card number="1" name="Sword of Feast and Famine"/>
-        <card number="1" name="Sword of Hearth and Home"/>
-        <card number="1" name="Sylvan Library"/>
-        <card number="1" name="Sylvan Tutor"/>
-        <card number="1" name="Taiga"/>
-        <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Temple Altisaur"/>
-        <card number="1" name="Temple Garden"/>
-        <card number="1" name="Temur Sabertooth"/>
-        <card number="1" name="Three Tree City"/>
-        <card number="1" name="Three Visits"/>
-        <card number="1" name="Topiary Stomper"/>
-        <card number="1" name="Trapjaw Tyrant"/>
-        <card number="1" name="Urza's Incubator"/>
-        <card number="1" name="Vaultborn Tyrant"/>
-        <card number="1" name="Wakening Sun's Avatar"/>
-        <card number="1" name="Wayta, Trainer Prodigy"/>
-        <card number="1" name="Wheel of Fortune"/>
-        <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Wooded Bastion"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Worldly Tutor"/>
-        <card number="1" name="Wrathful Raptors"/>
-        <card number="1" name="Yavimaya Hollow"/>
-        <card number="1" name="Zetalpa, Primal Dawn"/>
-    </zone>
+  <tags/>
+  <zone name="main">
+    <card number="1" name="Zacama, Primal Calamity"/>
+    <card number="1" name="Ancient Tomb"/>
+    <card number="1" name="Arcane Signet"/>
+    <card number="1" name="Arid Mesa"/>
+    <card number="1" name="Battlefield Forge"/>
+    <card number="1" name="Boseiju, Who Endures"/>
+    <card number="1" name="Brushland"/>
+    <card number="1" name="Castle Garenbrig"/>
+    <card number="1" name="Cavern of Souls"/>
+    <card number="1" name="City of Brass"/>
+    <card number="1" name="Cloudstone Curio"/>
+    <card number="1" name="Command Tower"/>
+    <card number="1" name="Cultivate"/>
+    <card number="1" name="Curious Altisaur"/>
+    <card number="1" name="Deflecting Swat"/>
+    <card number="1" name="Eladamri's Call"/>
+    <card number="1" name="Elemental Bond"/>
+    <card number="1" name="Enlightened Tutor"/>
+    <card number="1" name="Etali, Primal Conqueror"/>
+    <card number="1" name="Etali, Primal Storm"/>
+    <card number="1" name="Farseek"/>
+    <card number="1" name="Fellwar Stone"/>
+    <card number="1" name="Finale of Devastation"/>
+    <card number="1" name="Fire-Lit Thicket"/>
+    <card number="1" name="Flawless Maneuver"/>
+    <card number="1" name="Forerunner of the Empire"/>
+    <card number="10" name="Forest"/>
+    <card number="1" name="Garruk's Uprising"/>
+    <card number="1" name="Gishath, Sun's Avatar"/>
+    <card number="1" name="Growing Rites of Itlimoc"/>
+    <card number="1" name="Heroic Intervention"/>
+    <card number="1" name="Homeward Path"/>
+    <card number="1" name="Huatli, Warrior Poet"/>
+    <card number="1" name="Hunting Velociraptor"/>
+    <card number="1" name="Jeska's Will"/>
+    <card number="1" name="Karplusan Forest"/>
+    <card number="1" name="Kodama's Reach"/>
+    <card number="1" name="Mana Confluence"/>
+    <card number="1" name="Marauding Raptor"/>
+    <card number="1" name="Meticulous Excavation"/>
+    <card number="1" name="Mirari's Wake"/>
+    <card number="2" name="Mountain"/>
+    <card number="1" name="Nature's Lore"/>
+    <card number="1" name="Pantlaza, Sun-Favored"/>
+    <card number="1" name="Plains"/>
+    <card number="1" name="Plateau"/>
+    <card number="1" name="Polyraptor"/>
+    <card number="1" name="Pyrohemia"/>
+    <card number="1" name="Rampant Growth"/>
+    <card number="1" name="Ranging Raptors"/>
+    <card number="1" name="Reflecting Pool"/>
+    <card number="1" name="Regal Behemoth"/>
+    <card number="1" name="Regisaur Alpha"/>
+    <card number="1" name="Rhythm of the Wild"/>
+    <card number="1" name="Ripjaw Raptor"/>
+    <card number="1" name="Rite of Passage"/>
+    <card number="1" name="Roaming Throne"/>
+    <card number="1" name="Sacred Foundry"/>
+    <card number="1" name="Sanctum of Eternity"/>
+    <card number="1" name="Savannah"/>
+    <card number="1" name="Silverclad Ferocidons"/>
+    <card number="1" name="Skyshroud Claim"/>
+    <card number="1" name="Smothering Tithe"/>
+    <card number="1" name="Sol Ring"/>
+    <card number="1" name="Stomping Ground"/>
+    <card number="1" name="Sword of Feast and Famine"/>
+    <card number="1" name="Sword of Hearth and Home"/>
+    <card number="1" name="Sylvan Library"/>
+    <card number="1" name="Sylvan Tutor"/>
+    <card number="1" name="Taiga"/>
+    <card number="1" name="Teferi's Protection"/>
+    <card number="1" name="Temple Altisaur"/>
+    <card number="1" name="Temple Garden"/>
+    <card number="1" name="Temur Sabertooth"/>
+    <card number="1" name="Three Tree City"/>
+    <card number="1" name="Three Visits"/>
+    <card number="1" name="Topiary Stomper"/>
+    <card number="1" name="Trapjaw Tyrant"/>
+    <card number="1" name="Urza's Incubator"/>
+    <card number="1" name="Vaultborn Tyrant"/>
+    <card number="1" name="Wakening Sun's Avatar"/>
+    <card number="1" name="Wayta, Trainer Prodigy"/>
+    <card number="1" name="Wheel of Fortune"/>
+    <card number="1" name="Windswept Heath"/>
+    <card number="1" name="Wooded Bastion"/>
+    <card number="1" name="Wooded Foothills"/>
+    <card number="1" name="Worldly Tutor"/>
+    <card number="1" name="Wrathful Raptors"/>
+    <card number="1" name="Yavimaya Hollow"/>
+    <card number="1" name="Zetalpa, Primal Dawn"/>
+  </zone>
 </cockatrice_deck>

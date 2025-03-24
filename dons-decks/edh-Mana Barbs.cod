@@ -1,96 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Mar 20 16:03:53 2025</lastLoadedTimestamp>
-    <deckname>Mana Barbs</deckname>
-    <bannerCard providerId="">Yurlok of Scorch Thrash</bannerCard>
-    <comments>Format: EDH
+  <deckname>Mana Barbs</deckname>
+  <bannerCard providerId="">Yurlok of Scorch Thrash</bannerCard>
+  <comments>Format: EDH
 CDR: Yurlok of Scorch Thrash
 Colors: B, R, G</comments>
-    <tags/>
-    <zone name="main">
-        <card number="1" name="Agate Instigator"/>
-        <card number="1" name="Ashling, Flame Dancer"/>
-        <card number="1" name="Banefire"/>
-        <card number="1" name="Belbe, Corrupted Observer"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Crackle with Power"/>
-        <card number="1" name="Damnable Pact"/>
-        <card number="1" name="Deathcap Glade"/>
-        <card number="1" name="Dragonskull Summit"/>
-        <card number="1" name="Exquisite Blood"/>
-        <card number="1" name="Exsanguinate"/>
-        <card number="1" name="Flamecache Gecko"/>
-        <card number="7" name="Forest"/>
-        <card number="1" name="Gev, Scaled Scorch"/>
-        <card number="1" name="Goblin Anarchomancer"/>
-        <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Haunted Mire"/>
-        <card number="1" name="Haunted Ridge"/>
-        <card number="1" name="Heartbeat of Spring"/>
-        <card number="1" name="Hearthborn Battler"/>
-        <card number="1" name="Helix Pinnacle"/>
-        <card number="1" name="Horizon Stone"/>
-        <card number="1" name="Howling Mine"/>
-        <card number="1" name="Ignoble Hierarch"/>
-        <card number="1" name="Immolation Shaman"/>
-        <card number="1" name="Iridescent Vinelasher"/>
-        <card number="1" name="Klauth's Will"/>
-        <card number="1" name="Lavalanche"/>
-        <card number="1" name="Leyline of Abundance"/>
-        <card number="1" name="Leyline Tyrant"/>
-        <card number="1" name="Llanowar Elves"/>
-        <card number="1" name="Luxury Suite"/>
-        <card number="1" name="Magebane Lizard"/>
-        <card number="1" name="Magus of the Candelabra"/>
-        <card number="1" name="Magus of the Vineyard"/>
-        <card number="1" name="Manabarbs"/>
-        <card number="6" name="Mountain"/>
-        <card number="1" name="Nightshade Harvester"/>
-        <card number="1" name="Omnath, Locus of Mana"/>
-        <card number="1" name="Overprotect"/>
-        <card number="1" name="Polluted Bonds"/>
-        <card number="1" name="Powerbalance"/>
-        <card number="1" name="Rakdos Carnarium"/>
-        <card number="1" name="Ravine Raider"/>
-        <card number="1" name="Return the Favor"/>
-        <card number="1" name="Rites of Flourishing"/>
-        <card number="1" name="Rockfall Vale"/>
-        <card number="1" name="Rootbound Crag"/>
-        <card number="1" name="Rootweaver Druid"/>
-        <card number="1" name="Rug of Smothering"/>
-        <card number="1" name="Ruric Thar, the Unbowed"/>
-        <card number="1" name="Saryth, the Viper's Fang"/>
-        <card number="1" name="Savage Lands"/>
-        <card number="1" name="Scales of Shale"/>
-        <card number="1" name="Scytheclaw Raptor"/>
-        <card number="1" name="Seedborn Muse"/>
-        <card number="1" name="Shivan Devastator"/>
-        <card number="1" name="Sign in Blood"/>
-        <card number="1" name="Spectral Searchlight"/>
-        <card number="1" name="Spire Garden"/>
-        <card number="1" name="Staff of Domination"/>
-        <card number="1" name="Stormfist Crusader"/>
-        <card number="1" name="Sunspine Lynx"/>
-        <card number="6" name="Swamp"/>
-        <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Sword of the Paruns"/>
-        <card number="1" name="Thousand-Year Elixir"/>
-        <card number="1" name="Twilight Mire"/>
-        <card number="1" name="Undergrowth Stadium"/>
-        <card number="1" name="Valley Flamecaller"/>
-        <card number="1" name="Vexing Shusher"/>
-        <card number="1" name="Victory Chimes"/>
-        <card number="1" name="War's Toll"/>
-        <card number="1" name="Wildsear, Scouring Maw"/>
-        <card number="1" name="Wooded Ridgeline"/>
-        <card number="1" name="Woodland Cemetery"/>
-        <card number="1" name="Xantcha, Sleeper Agent"/>
-        <card number="1" name="Zhur-Taa Druid"/>
-        <card number="1" name="Zo-Zu the Punisher"/>
-        <card number="1" name="Zhur-Taa Ancient"/>
-        <card number="1" name="Reshape the Earth"/>
-        <card number="1" name="Hellkite Tyrant"/>
-        <card number="1" name="Yurlok of Scorch Thrash"/>
-        <card number="1" name="Vandalblast"/>
-    </zone>
+  <tags/>
+  <zone name="main">
+    <card number="1" name="Agate Instigator"/>
+    <card number="1" name="Ashling, Flame Dancer"/>
+    <card number="1" name="Banefire"/>
+    <card number="1" name="Belbe, Corrupted Observer"/>
+    <card number="1" name="Command Tower"/>
+    <card number="1" name="Crackle with Power"/>
+    <card number="1" name="Damnable Pact"/>
+    <card number="1" name="Deathcap Glade"/>
+    <card number="1" name="Dragonskull Summit"/>
+    <card number="1" name="Exquisite Blood"/>
+    <card number="1" name="Exsanguinate"/>
+    <card number="1" name="Flamecache Gecko"/>
+    <card number="7" name="Forest"/>
+    <card number="1" name="Gev, Scaled Scorch"/>
+    <card number="1" name="Goblin Anarchomancer"/>
+    <card number="1" name="Golgari Rot Farm"/>
+    <card number="1" name="Haunted Mire"/>
+    <card number="1" name="Haunted Ridge"/>
+    <card number="1" name="Heartbeat of Spring"/>
+    <card number="1" name="Hearthborn Battler"/>
+    <card number="1" name="Helix Pinnacle"/>
+    <card number="1" name="Horizon Stone"/>
+    <card number="1" name="Howling Mine"/>
+    <card number="1" name="Ignoble Hierarch"/>
+    <card number="1" name="Immolation Shaman"/>
+    <card number="1" name="Iridescent Vinelasher"/>
+    <card number="1" name="Klauth's Will"/>
+    <card number="1" name="Lavalanche"/>
+    <card number="1" name="Leyline of Abundance"/>
+    <card number="1" name="Leyline Tyrant"/>
+    <card number="1" name="Llanowar Elves"/>
+    <card number="1" name="Luxury Suite"/>
+    <card number="1" name="Magebane Lizard"/>
+    <card number="1" name="Magus of the Candelabra"/>
+    <card number="1" name="Magus of the Vineyard"/>
+    <card number="1" name="Manabarbs"/>
+    <card number="6" name="Mountain"/>
+    <card number="1" name="Nightshade Harvester"/>
+    <card number="1" name="Omnath, Locus of Mana"/>
+    <card number="1" name="Overprotect"/>
+    <card number="1" name="Polluted Bonds"/>
+    <card number="1" name="Powerbalance"/>
+    <card number="1" name="Rakdos Carnarium"/>
+    <card number="1" name="Ravine Raider"/>
+    <card number="1" name="Return the Favor"/>
+    <card number="1" name="Rites of Flourishing"/>
+    <card number="1" name="Rockfall Vale"/>
+    <card number="1" name="Rootbound Crag"/>
+    <card number="1" name="Rootweaver Druid"/>
+    <card number="1" name="Rug of Smothering"/>
+    <card number="1" name="Ruric Thar, the Unbowed"/>
+    <card number="1" name="Saryth, the Viper's Fang"/>
+    <card number="1" name="Savage Lands"/>
+    <card number="1" name="Scales of Shale"/>
+    <card number="1" name="Scytheclaw Raptor"/>
+    <card number="1" name="Seedborn Muse"/>
+    <card number="1" name="Shivan Devastator"/>
+    <card number="1" name="Sign in Blood"/>
+    <card number="1" name="Spectral Searchlight"/>
+    <card number="1" name="Spire Garden"/>
+    <card number="1" name="Staff of Domination"/>
+    <card number="1" name="Stormfist Crusader"/>
+    <card number="1" name="Sunspine Lynx"/>
+    <card number="6" name="Swamp"/>
+    <card number="1" name="Swiftfoot Boots"/>
+    <card number="1" name="Sword of the Paruns"/>
+    <card number="1" name="Thousand-Year Elixir"/>
+    <card number="1" name="Twilight Mire"/>
+    <card number="1" name="Undergrowth Stadium"/>
+    <card number="1" name="Valley Flamecaller"/>
+    <card number="1" name="Vexing Shusher"/>
+    <card number="1" name="Victory Chimes"/>
+    <card number="1" name="War's Toll"/>
+    <card number="1" name="Wildsear, Scouring Maw"/>
+    <card number="1" name="Wooded Ridgeline"/>
+    <card number="1" name="Woodland Cemetery"/>
+    <card number="1" name="Xantcha, Sleeper Agent"/>
+    <card number="1" name="Zhur-Taa Druid"/>
+    <card number="1" name="Zo-Zu the Punisher"/>
+    <card number="1" name="Zhur-Taa Ancient"/>
+    <card number="1" name="Reshape the Earth"/>
+    <card number="1" name="Hellkite Tyrant"/>
+    <card number="1" name="Yurlok of Scorch Thrash"/>
+    <card number="1" name="Vandalblast"/>
+  </zone>
 </cockatrice_deck>
