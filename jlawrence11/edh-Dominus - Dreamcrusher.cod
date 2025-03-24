@@ -1,110 +1,111 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-  <deckname>Dominus - Dreamcrusher</deckname>
-  <bannerCard providerId="">Damia, Sage of Stone</bannerCard>
-  <comments>CDR: Damia, Sage of Stone
+    <lastLoadedTimestamp>Mon Mar 24 09:59:33 2025</lastLoadedTimestamp>
+    <deckname>Dominus - Dreamcrusher</deckname>
+    <bannerCard providerId="">Damia, Sage of Stone</bannerCard>
+    <comments>CDR: Damia, Sage of Stone
 Colors: GUB
 Est $2.6k
 URL: https://tappedout.net/mtg-decks/dominus-dreamcrusher-edition/</comments>
-  <tags/>
-  <zone name="main">
-    <card number="1" name="Damia, Sage of Stone"/>
-    <card number="1" name="Ancient Tomb"/>
-    <card number="1" name="Arbor Elf"/>
-    <card number="1" name="Arcane Denial"/>
-    <card number="1" name="Azusa, Lost but Seeking"/>
-    <card number="1" name="Bayou"/>
-    <card number="1" name="Birds of Paradise"/>
-    <card number="1" name="Bloodstained Mire"/>
-    <card number="1" name="Blue Sun's Zenith"/>
-    <card number="1" name="Boseiju, Who Shelters All"/>
-    <card number="1" name="Breeding Pool"/>
-    <card number="1" name="Burgeoning"/>
-    <card number="1" name="Carpet of Flowers"/>
-    <card number="1" name="Cavern of Souls"/>
-    <card number="1" name="Cephalid Coliseum"/>
-    <card number="1" name="Command Tower"/>
-    <card number="1" name="Consecrated Sphinx"/>
-    <card number="1" name="Counterspell"/>
-    <card number="1" name="Crucible of Worlds"/>
-    <card number="1" name="Cyclonic Rift"/>
-    <card number="1" name="Dark Ritual"/>
-    <card number="1" name="Deadeye Navigator"/>
-    <card number="1" name="Deathrite Shaman"/>
-    <card number="1" name="Demonic Tutor"/>
-    <card number="1" name="Dispel"/>
-    <card number="1" name="Drowned Catacomb"/>
-    <card number="1" name="Eternal Witness"/>
-    <card number="1" name="Exploration"/>
-    <card number="1" name="Flooded Strand"/>
-    <card number="1" name="Flusterstorm"/>
-    <card number="1" name="Forbidden Orchard"/>
-    <card number="1" name="Force of Will"/>
-    <card number="1" name="Gaea's Cradle"/>
-    <card number="1" name="Ghostly Flicker"/>
-    <card number="1" name="Green Sun's Zenith"/>
-    <card number="1" name="Grim Monolith"/>
-    <card number="1" name="Hinterland Harbor"/>
-    <card number="1" name="Imperial Seal"/>
-    <card number="1" name="Intuition"/>
-    <card number="1" name="Kiora's Follower"/>
-    <card number="1" name="Lim-Dûl's Vault"/>
-    <card number="1" name="Lotus Cobra"/>
-    <card number="1" name="Mana Crypt"/>
-    <card number="1" name="Mana Drain"/>
-    <card number="1" name="Mana Vault"/>
-    <card number="1" name="Marsh Flats"/>
-    <card number="1" name="Misdirection"/>
-    <card number="1" name="Misty Rainforest"/>
-    <card number="1" name="Mox Diamond"/>
-    <card number="1" name="Mystic Remora"/>
-    <card number="1" name="Mystical Teachings"/>
-    <card number="1" name="Mystical Tutor"/>
-    <card number="1" name="Nature's Claim"/>
-    <card number="1" name="Nature's Lore"/>
-    <card number="1" name="Necropotence"/>
-    <card number="1" name="Negate"/>
-    <card number="1" name="Oracle of Mul Daya"/>
-    <card number="1" name="Overgrown Tomb"/>
-    <card number="1" name="Pact of Negation"/>
-    <card number="1" name="Palinchron"/>
-    <card number="1" name="Peregrine Drake"/>
-    <card number="1" name="Phantasmal Image"/>
-    <card number="1" name="Polluted Delta"/>
-    <card number="1" name="Reflecting Pool"/>
-    <card number="1" name="Reliquary Tower"/>
-    <card number="1" name="Remand"/>
-    <card number="1" name="Riptide Laboratory"/>
-    <card number="1" name="Rune-Scarred Demon"/>
-    <card number="1" name="Scalding Tarn"/>
-    <card number="1" name="Sensei's Divining Top"/>
-    <card number="1" name="Skyshroud Claim"/>
-    <card number="1" name="Snapcaster Mage"/>
-    <card number="2" name="Snow-Covered Forest"/>
-    <card number="2" name="Snow-Covered Island"/>
-    <card number="1" name="Snow-Covered Swamp"/>
-    <card number="1" name="Sol Ring"/>
-    <card number="1" name="Spell Pierce"/>
-    <card number="1" name="Stifle"/>
-    <card number="1" name="Strip Mine"/>
-    <card number="1" name="Swan Song"/>
-    <card number="1" name="Sylvan Library"/>
-    <card number="1" name="Teferi, Mage of Zhalfir"/>
-    <card number="1" name="Three Visits"/>
-    <card number="1" name="Tolaria West"/>
-    <card number="1" name="Tooth and Nail"/>
-    <card number="1" name="Toxic Deluge"/>
-    <card number="1" name="Tropical Island"/>
-    <card number="1" name="Underground Sea"/>
-    <card number="1" name="Urborg, Tomb of Yawgmoth"/>
-    <card number="1" name="Vampiric Tutor"/>
-    <card number="1" name="Venser, Shaper Savant"/>
-    <card number="1" name="Verdant Catacombs"/>
-    <card number="1" name="Volrath's Stronghold"/>
-    <card number="1" name="Wasteland"/>
-    <card number="1" name="Watery Grave"/>
-    <card number="1" name="Windswept Heath"/>
-    <card number="1" name="Wooded Foothills"/>
-    <card number="1" name="Yawgmoth's Will"/>
-  </zone>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Damia, Sage of Stone"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Boseiju, Who Shelters All"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Carpet of Flowers"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Cephalid Coliseum"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Flusterstorm"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Imperial Seal"/>
+        <card number="1" name="Intuition"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Lim-Dûl's Vault"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Mystical Teachings"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Necropotence"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Pact of Negation"/>
+        <card number="1" name="Palinchron"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Remand"/>
+        <card number="1" name="Riptide Laboratory"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Snapcaster Mage"/>
+        <card number="2" name="Snow-Covered Forest"/>
+        <card number="2" name="Snow-Covered Island"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Stifle"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Tolaria West"/>
+        <card number="1" name="Tooth and Nail"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Yawgmoth's Will"/>
+    </zone>
 </cockatrice_deck>

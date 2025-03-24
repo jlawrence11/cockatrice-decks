@@ -1,91 +1,92 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-  <deckname>In response, Hold my Beer</deckname>
-  <bannerCard providerId="">Teshar, Ancestor's Apostle</bannerCard>
-  <comments>CDR: Teshar, Ancestor's Apostle
+    <lastLoadedTimestamp>Mon Mar 24 09:59:37 2025</lastLoadedTimestamp>
+    <deckname>In response, Hold my Beer</deckname>
+    <bannerCard providerId="">Teshar, Ancestor's Apostle</bannerCard>
+    <comments>CDR: Teshar, Ancestor's Apostle
 Colors: W
 Est $341-525
 URL: https://tappedout.net/mtg-decks/grand-abolisher-meets-krenko-mob-boss/</comments>
-  <tags/>
-  <zone name="main">
-    <card number="1" name="Teshar, Ancestor's Apostle"/>
-    <card number="1" name="Airlift Chaplain"/>
-    <card number="1" name="Altar of Dementia"/>
-    <card number="1" name="Ancient Tomb"/>
-    <card number="1" name="Arcane Signet"/>
-    <card number="1" name="Arcbound Ravager"/>
-    <card number="1" name="Archivist of Oghma"/>
-    <card number="1" name="Ashnod's Altar"/>
-    <card number="1" name="Benevolent Bodyguard"/>
-    <card number="1" name="Blasting Station"/>
-    <card number="1" name="Buried Ruin"/>
-    <card number="1" name="Cathar Commando"/>
-    <card number="1" name="Chromatic Sphere"/>
-    <card number="1" name="Chromatic Star"/>
-    <card number="1" name="Chrome Mox"/>
-    <card number="1" name="Circuit Mender"/>
-    <card number="1" name="Command Beacon"/>
-    <card number="1" name="Drannith Magistrate"/>
-    <card number="1" name="Emergence Zone"/>
-    <card number="1" name="Enlightened Tutor"/>
-    <card number="1" name="Esper Sentinel"/>
-    <card number="1" name="Everflowing Chalice"/>
-    <card number="1" name="Foundry Inspector"/>
-    <card number="1" name="Glaring Fleshraker"/>
-    <card number="1" name="Glint Hawk"/>
-    <card number="1" name="Gold Myr"/>
-    <card number="1" name="Grand Abolisher"/>
-    <card number="1" name="Grinding Station"/>
-    <card number="1" name="Jhoira's Familiar"/>
-    <card number="1" name="Jolted Awake"/>
-    <card number="1" name="Junk Diver"/>
-    <card number="1" name="Krark-Clan Ironworks"/>
-    <card number="1" name="Liquimetal Torque"/>
-    <card number="1" name="Loran of the Third Path"/>
-    <card number="1" name="Lotus Petal"/>
-    <card number="1" name="Marble Diamond"/>
-    <card number="1" name="March of Otherworldly Light"/>
-    <card number="1" name="Memnite"/>
-    <card number="1" name="Millikin"/>
-    <card number="1" name="Mind Stone"/>
-    <card number="1" name="Mishra's Bauble"/>
-    <card number="1" name="Moonsilver Key"/>
-    <card number="1" name="Mox Amber"/>
-    <card number="1" name="Myr Moonvessel"/>
-    <card number="1" name="Myr Retriever"/>
-    <card number="1" name="Myr Sire"/>
-    <card number="1" name="Mystic Forge"/>
-    <card number="1" name="Ornithopter"/>
-    <card number="1" name="Ornithopter of Paradise"/>
-    <card number="1" name="Oswald Fiddlebender"/>
-    <card number="1" name="Path to Exile"/>
-    <card number="1" name="Perilous Myr"/>
-    <card number="1" name="Phyrexian Altar"/>
-    <card number="22" name="Plains"/>
-    <card number="1" name="Prismatic Lens"/>
-    <card number="1" name="Raffine's Informant"/>
-    <card number="1" name="Recruiter of the Guard"/>
-    <card number="1" name="Restoration Specialist"/>
-    <card number="1" name="Salvage Scout"/>
-    <card number="1" name="Salvager of Ruin"/>
-    <card number="1" name="Scrap Trawler"/>
-    <card number="1" name="Scrapyard Recombiner"/>
-    <card number="1" name="Secluded Steppe"/>
-    <card number="1" name="Sevinne's Reclamation"/>
-    <card number="1" name="Shimmer Myr"/>
-    <card number="1" name="Silence"/>
-    <card number="1" name="Skullclamp"/>
-    <card number="1" name="Skyscanner"/>
-    <card number="1" name="Sol Ring"/>
-    <card number="1" name="Spirited Companion"/>
-    <card number="1" name="Springleaf Drum"/>
-    <card number="1" name="Swords to Plowshares"/>
-    <card number="1" name="Tormod's Crypt"/>
-    <card number="1" name="Treasure Hunter"/>
-    <card number="1" name="Trusty Packbeast"/>
-    <card number="1" name="Unexpectedly Absent"/>
-    <card number="1" name="Walking Ballista"/>
-    <card number="1" name="War Room"/>
-    <card number="1" name="Workshop Assistant"/>
-  </zone>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Teshar, Ancestor's Apostle"/>
+        <card number="1" name="Airlift Chaplain"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arcbound Ravager"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Benevolent Bodyguard"/>
+        <card number="1" name="Blasting Station"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Chromatic Sphere"/>
+        <card number="1" name="Chromatic Star"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Circuit Mender"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Drannith Magistrate"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Glaring Fleshraker"/>
+        <card number="1" name="Glint Hawk"/>
+        <card number="1" name="Gold Myr"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Grinding Station"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Jolted Awake"/>
+        <card number="1" name="Junk Diver"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Loran of the Third Path"/>
+        <card number="1" name="Lotus Petal"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="March of Otherworldly Light"/>
+        <card number="1" name="Memnite"/>
+        <card number="1" name="Millikin"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mishra's Bauble"/>
+        <card number="1" name="Moonsilver Key"/>
+        <card number="1" name="Mox Amber"/>
+        <card number="1" name="Myr Moonvessel"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Myr Sire"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Oswald Fiddlebender"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Perilous Myr"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="22" name="Plains"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Raffine's Informant"/>
+        <card number="1" name="Recruiter of the Guard"/>
+        <card number="1" name="Restoration Specialist"/>
+        <card number="1" name="Salvage Scout"/>
+        <card number="1" name="Salvager of Ruin"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Scrapyard Recombiner"/>
+        <card number="1" name="Secluded Steppe"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Silence"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Springleaf Drum"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Tormod's Crypt"/>
+        <card number="1" name="Treasure Hunter"/>
+        <card number="1" name="Trusty Packbeast"/>
+        <card number="1" name="Unexpectedly Absent"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Workshop Assistant"/>
+    </zone>
 </cockatrice_deck>
