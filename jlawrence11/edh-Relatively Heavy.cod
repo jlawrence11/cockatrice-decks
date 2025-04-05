@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_deck version="1">
-    <deckname>Relatively Heavy</deckname>
+    <deckname>Relatively Heavy (EDH)</deckname>
     <bannerCard providerId="">Rograkh, Son of Rohgahh</bannerCard>
     <comments>CDR: Rograkh, Son of Rohgahh
 CDR: Ardenn, Intrepid Archaeologist
-Colors: WR</comments>
-    <tags/>
+Colors: WR
+URL: https://deckstats.net/decks/280833/4083213-relatively-heavy-edh-
+URL: https://tappedout.net/mtg-decks/relatively-heavy-edh-4/</comments>
+    <tags>
+        <tag>🏃️ Aggro</tag>
+        <tag>🌱 Ramp</tag>
+        <tag>💎 Artifact</tag>
+    </tags>
     <zone name="main">
         <card number="1" name="Akiri, Fearless Voyager"/>
         <card number="1" name="All That Glitters"/>
@@ -89,13 +95,12 @@ Colors: WR</comments>
         <card number="1" name="Wear // Tear"/>
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Plateau" setShortName="30A" collectorNumber="275" uuid="d5ba61cb-0c57-4a94-91a9-6ce0a27b9db7"/>
-        <card number="1" name="Sacred Foundry" setShortName="CLU" collectorNumber="279" uuid="83893cda-546c-445e-b32c-c972354ccec2"/>
         <card number="1" name="Sacred Peaks" setShortName="MKC" collectorNumber="285" uuid="4220431a-97a3-4957-8201-ce29559b8839"/>
         <card number="1" name="Elegant Parlor" setShortName="MKM" collectorNumber="260" uuid="72c6d541-e2cb-4d6e-acac-90a8f53b7006"/>
         <card number="1" name="Idyllic Grange" setShortName="ELD" collectorNumber="246" uuid="ca2c611c-3a6f-44b0-9daa-837a465845e0"/>
         <card number="1" name="Mistveil Plains" setShortName="PLST" collectorNumber="UMA-247" uuid="e18b6f32-f9c3-4264-bc7e-1ba126eb1a1d"/>
         <card number="1" name="Alpine Meadow" setShortName="KHM" collectorNumber="248" uuid="8702d6b9-bb01-4841-a76d-4a576066c772"/>
         <card number="6" name="Mountain" setShortName="TDM" collectorNumber="283" uuid="bfa10a88-12e0-4b79-80bb-6f4620277e20"/>
-        <card number="6" name="Plains" setShortName="TDM" collectorNumber="278" uuid="b8c391f2-b340-43c7-89e6-afac5b70491f"/>
+        <card number="7" name="Plains" setShortName="TDM" collectorNumber="278" uuid="b8c391f2-b340-43c7-89e6-afac5b70491f"/>
     </zone>
 </cockatrice_deck>

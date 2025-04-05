@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_deck version="1">
+    <deckname>Land Monster (EDH)</deckname>
+    <bannerCard providerId="">The Gitrog Monster</bannerCard>
+    <comments>CDR: The Gitrog Monster
+Colors: BG
+
+Meeeehhh. Needs draw mechanics.</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Abrupt Decay"/>
+        <card number="1" name="Ad Nauseam"/>
+        <card number="1" name="Aftermath Analyst"/>
+        <card number="1" name="Amulet of Vigor"/>
+        <card number="1" name="Ancient Greenwarden"/>
+        <card number="1" name="Argoth, Sanctum of Nature"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Barren Moor"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Conduit of Worlds"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Crystal Vein"/>
+        <card number="1" name="Culling Ritual"/>
+        <card number="1" name="Dakmor Salvage"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Elvish Reclaimer"/>
+        <card number="1" name="Emergence Zone"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Field of the Dead"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Gaea's Blessing"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Glacial Chasm"/>
+        <card number="1" name="Golgari Grave-Troll"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Hedge Shredder"/>
+        <card number="1" name="Imperial Seal"/>
+        <card number="1" name="Iridescent Vinelasher"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Life from the Loam"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Lotus Field"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Mossborn Hydra"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Noose Constrictor"/>
+        <card number="1" name="Nurturing Peatland"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+        <card number="1" name="Oblivion Crown"/>
+        <card number="1" name="Opposition Agent"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Putrid Imp"/>
+        <card number="1" name="Rain of Filth"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Realms Uncharted"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Scapeshift"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Six"/>
+        <card number="1" name="Skirge Familiar"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Splendid Reclamation"/>
+        <card number="1" name="Squandered Resources"/>
+        <card number="1" name="Stinkweed Imp"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sylvan Safekeeper"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="The Gitrog Monster"/>
+        <card number="1" name="Titania, Protector of Argoth"/>
+        <card number="1" name="Tranquil Thicket"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Vampiric Tutor"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Wild Mongrel"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="World Shaper"/>
+        <card number="1" name="Zuran Orb"/>
+        <card number="1" name="Underground Mortuary" setShortName="MKM" collectorNumber="271" uuid="f6ca59cd-8779-4a84-a54b-e863b79c61f0"/>
+        <card number="1" name="Overgrown Tomb" setShortName="CLU" collectorNumber="278" uuid="2c92e23a-329e-41f9-b5ca-577050be0b7e"/>
+        <card number="1" name="Haunted Mire" setShortName="TDC" collectorNumber="369" uuid="402ff237-6581-47d5-a3f5-a7bdae505b41"/>
+        <card number="1" name="Bayou" setShortName="30A" collectorNumber="274" uuid="538dfd90-5215-4aa0-8e10-1e6fd9f717c8"/>
+        <card number="1" name="Indatha Triome" setShortName="IKO" collectorNumber="248" uuid="2b74bb81-fb9a-40e5-a941-e517430b52f5"/>
+        <card number="1" name="Zagoth Triome" setShortName="IKO" collectorNumber="259" uuid="cc520518-2063-4b57-a0d4-10cf62a7175e"/>
+        <card number="1" name="Woodland Chasm" setShortName="KHM" collectorNumber="274" uuid="b2dd0b71-5a60-418c-82fc-f13d1b5075d0"/>
+        <card number="3" name="Forest" setShortName="PL25" collectorNumber="6" uuid="ed22c591-19f4-4096-a08c-5523a26b307c"/>
+        <card number="2" name="Swamp" setShortName="TDM" collectorNumber="274" uuid="ef235170-8276-4ef0-bdfd-ba68d5b218ec"/>
+    </zone>
+</cockatrice_deck>

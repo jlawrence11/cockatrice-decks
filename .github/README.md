@@ -7,15 +7,14 @@ This is open to suggestions, but current naming schema I'm trying to conform to 
 
 ## Deck Meta-Data
 ### Deck Name
-The deck name you used in the filename, but with extra flourishes if preferred.
+The deck name you used in the filename, but with extra flourishes if preferred. Put the format at the end of the deck name like `(EDH)`.
 
 ### Comments
 Anything in brackets (`[]`) is optional and will still fit the criteria of being complete with regards to the comments.
 Items in gt/lt symbols (`<>`) is meant to be descriptive of what is suppose to go there.
 *Neither of those sets of symbols are included in the actual format.*
+
 ```
-["<Slogan>"]
-FORMAT: <EDH/Standard/Brawl/ETC>
 [CDR: <Commander>]
 [Alt CDR: <Alt Commander>]
 Colors: <B, U, G, R, W>
