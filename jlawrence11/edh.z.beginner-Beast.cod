@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_deck version="1">
-  <deckname>z.beginner-Beast</deckname>
-  <bannerCard providerId="">Slinza, the Spiked Stampede</bannerCard>
-  <comments>CDR: Slinza, the Spiked Stampede
+    <deckname>z.beginner-Beast</deckname>
+    <bannerCard providerId="">Slinza, the Spiked Stampede</bannerCard>
+    <comments>CDR: Slinza, the Spiked Stampede
 Colors: G
 Est $400</comments>
-  <tags/>
-  <zone name="main">
-    <card number="1" name="Anara, Wolvid Familiar"/>
-    <card number="1" name="Ancient Tomb"/>
-    <card number="1" name="Archdruid's Charm"/>
-    <card number="1" name="Banner of Kinship"/>
-    <card number="1" name="Battlefront Krushok"/>
-    <card number="1" name="Beast Whisperer"/>
-    <card number="1" name="Beast Within"/>
-    <card number="1" name="Birds of Paradise"/>
-    <card number="1" name="Bonders' Enclave"/>
-    <card number="1" name="Boseiju, Who Endures"/>
-    <card number="1" name="Boxing Ring"/>
-    <card number="1" name="Castle Garenbrig"/>
-    <card number="1" name="Collective Resistance"/>
-    <card number="1" name="Craterhoof Behemoth"/>
-    <card number="1" name="Cultivate"/>
-    <card number="1" name="Curious Herd"/>
-    <card number="1" name="Elder Gargaroth"/>
-    <card number="1" name="Elemental Bond"/>
-    <card number="1" name="Elvish Mystic"/>
-    <card number="1" name="Emerald Medallion"/>
-    <card number="1" name="Entish Restoration"/>
-    <card number="1" name="Explore"/>
-    <card number="1" name="Ezuri's Predation"/>
-    <card number="1" name="Fanatic of Rhonas"/>
-    <card number="1" name="Fangren Firstborn"/>
-    <card number="1" name="Farseek"/>
-    <card number="1" name="Garruk's Uprising"/>
-    <card number="1" name="Gnarlid Colony"/>
-    <card number="1" name="Go Forth"/>
-    <card number="1" name="Gwenna, Eyes of Gaea"/>
-    <card number="1" name="Harrow"/>
-    <card number="1" name="Herald's Horn"/>
-    <card number="1" name="Herd Baloth"/>
-    <card number="1" name="Heroic Intervention"/>
-    <card number="1" name="Hunter's Insight"/>
-    <card number="1" name="Kindred Summons"/>
-    <card number="1" name="Kodama's Reach"/>
-    <card number="1" name="Kona, Rescue Beastie"/>
-    <card number="1" name="Krosan Grip"/>
-    <card number="1" name="Krosan Warchief"/>
-    <card number="1" name="Lightning Greaves"/>
-    <card number="1" name="Llanowar Elves"/>
-    <card number="1" name="Manglehorn"/>
-    <card number="1" name="Mithril Coat"/>
-    <card number="1" name="Mosswort Bridge"/>
-    <card number="1" name="Nature's Claim"/>
-    <card number="1" name="Nykthos, Shrine to Nyx"/>
-    <card number="1" name="Nylea's Forerunner"/>
-    <card number="1" name="Paleoloth"/>
-    <card number="1" name="Primeval Bounty"/>
-    <card number="1" name="Questing Beast"/>
-    <card number="1" name="Ram Through"/>
-    <card number="1" name="Rampaging Baloths"/>
-    <card number="1" name="Rampant Growth"/>
-    <card number="1" name="Realmwalker"/>
-    <card number="1" name="Reliquary Tower"/>
-    <card number="1" name="Renegade Krasis"/>
-    <card number="1" name="Rhonas's Monument"/>
-    <card number="1" name="Rogue's Passage"/>
-    <card number="1" name="Selvala, Heart of the Wilds"/>
-    <card number="1" name="Shamanic Revelation"/>
-    <card number="1" name="Shifting Woodland"/>
-    <card number="1" name="Siege Behemoth"/>
-    <card number="1" name="Slinza, the Spiked Stampede"/>
-    <card number="1" name="Spearbreaker Behemoth"/>
-    <card number="1" name="Tamiyo's Safekeeping"/>
-    <card number="1" name="Temple of the False God"/>
-    <card number="1" name="The Great Henge"/>
-    <card number="1" name="Three Tree City"/>
-    <card number="1" name="Three Visits"/>
-    <card number="1" name="Thunderfoot Baloth"/>
-    <card number="1" name="Ulvenwald Oddity"/>
-    <card number="1" name="Unnatural Growth"/>
-    <card number="1" name="Urza's Incubator"/>
-    <card number="1" name="Vanquisher's Banner"/>
-    <card number="1" name="War Room"/>
-    <card number="1" name="Wirewood Savage"/>
-    <card number="1" name="Woodland Liege"/>
-    <card number="1" name="Worldly Tutor"/>
-    <card number="1" name="Wrap in Vigor"/>
-    <card number="1" name="Yavimaya, Cradle of Growth"/>
-    <card number="1" name="Sol Ring"/>
-    <card number="17" name="Forest"/>
-    <card number="1" name="Misty Rainforest"/>
-  </zone>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Anara, Wolvid Familiar"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Archdruid's Charm"/>
+        <card number="1" name="Banner of Kinship"/>
+        <card number="1" name="Battlefront Krushok"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Boxing Ring"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Collective Resistance"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Curious Herd"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Emerald Medallion"/>
+        <card number="1" name="Entish Restoration"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Fanatic of Rhonas"/>
+        <card number="1" name="Fangren Firstborn"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Gnarlid Colony"/>
+        <card number="1" name="Go Forth"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Herd Baloth"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Kindred Summons"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Kona, Rescue Beastie"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Krosan Warchief"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Nylea's Forerunner"/>
+        <card number="1" name="Paleoloth"/>
+        <card number="1" name="Primeval Bounty"/>
+        <card number="1" name="Questing Beast"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Renegade Krasis"/>
+        <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Shifting Woodland"/>
+        <card number="1" name="Siege Behemoth"/>
+        <card number="1" name="Slinza, the Spiked Stampede"/>
+        <card number="1" name="Spearbreaker Behemoth"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Three Tree City"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Thunderfoot Baloth"/>
+        <card number="1" name="Ulvenwald Oddity"/>
+        <card number="1" name="Unnatural Growth"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Wirewood Savage"/>
+        <card number="1" name="Woodland Liege"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="17" name="Forest"/>
+        <card number="1" name="Misty Rainforest"/>
+    </zone>
 </cockatrice_deck>

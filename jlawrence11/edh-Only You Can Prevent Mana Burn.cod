@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_deck version="1">
+    <deckname>Only You Can Prevent Mana Burn (EDH)</deckname>
+    <bannerCard providerId="">Kruphix, God of Horizons</bannerCard>
+    <comments>CDR: Kruphix, God of Horizons
+Colors: GU</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Awaken the Woods"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Chromatic Orrery"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Conduit of Ruin"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Doubling Cube"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Drown in Dreams"/>
+        <card number="1" name="Eldrazi Temple"/>
+        <card number="1" name="Emrakul, the Promised End"/>
+        <card number="1" name="Endbringer"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Finale of Revelation"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Helix Pinnacle"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="Kiora's Follower"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Kozilek, the Great Distortion"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Kruphix, God of Horizons"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mana Drain"/>
+        <card number="1" name="Mana Reflection"/>
+        <card number="1" name="Mass Manipulation"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Plasm Capture"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Rise of the Eldrazi"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sea Gate Restoration"/>
+        <card number="1" name="Seedborn Muse"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Stroke of Genius"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="1" name="Ulamog, the Defiler"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Urza's Mine"/>
+        <card number="1" name="Urza's Power Plant"/>
+        <card number="1" name="Urza's Tower"/>
+        <card number="1" name="Vedalken Orrery"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur" setShortName="PLST" collectorNumber="NPH-37" uuid="b67c1a50-6e13-4715-a76c-faf0d9b3e397"/>
+        <card number="1" name="Vorinclex, Voice of Hunger" setShortName="PLST" collectorNumber="NPH-127" uuid="6f08f008-ce26-417a-9720-f4addeb7391e"/>
+        <card number="1" name="Tropical Island" setShortName="VMA" collectorNumber="321" uuid="47033ba4-8f26-4a6b-97bd-5b366327325e"/>
+        <card number="1" name="Tangled Islet" setShortName="DSC" collectorNumber="306" uuid="7b994b5a-4b67-49b6-859d-ae706fc465ca"/>
+        <card number="1" name="Breeding Pool" setShortName="RVR" collectorNumber="275" uuid="9b35c030-029d-4286-ab79-0165c8688c6c"/>
+        <card number="1" name="Overflowing Basin" setShortName="DRC" collectorNumber="165" uuid="93a361a8-ecf2-4901-a948-c2fda6bd3aa9"/>
+        <card number="1" name="Oboro, Palace in the Clouds" setShortName="SOK" collectorNumber="164" uuid="ffc2d68e-6543-43ec-b67a-afff1325a32f"/>
+        <card number="1" name="Forest" setShortName="DSK" collectorNumber="285" uuid="e84c0880-728d-4ac2-b685-4f18f66c24db"/>
+        <card number="1" name="Forest" setShortName="DFT" collectorNumber="291" uuid="562b16ae-8ae7-4b2d-9098-bf3ff1429f7b"/>
+        <card number="1" name="Forest" setShortName="OTJ" collectorNumber="285" uuid="dc20a07e-5f92-49c2-9c97-d5eda536d3f6"/>
+        <card number="1" name="Forest" setShortName="DMU" collectorNumber="274" uuid="52097f6a-58d3-4176-b3bf-dc94f44adf30"/>
+        <card number="1" name="Forest" setShortName="SNC" collectorNumber="271" uuid="818442df-fb81-4f1c-bcf2-fbd6b05912ed"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="MKC" collectorNumber="277" uuid="67652446-6d12-4e2a-bb51-ba685f2e79d1"/>
+        <card number="1" name="Island" setShortName="TDM" collectorNumber="279" uuid="1ff6acc9-581c-468f-894d-41f725da7f33"/>
+        <card number="1" name="Island" setShortName="TDM" collectorNumber="280" uuid="15be7923-6efc-4650-b8d1-f61cb33ef81d"/>
+        <card number="1" name="Island" setShortName="J25" collectorNumber="86" uuid="0e443748-edf1-4499-9507-3649dd57ee95"/>
+        <card number="1" name="Island" setShortName="OTJ" collectorNumber="280" uuid="91be4db0-7cb3-4202-939b-cb7a26e90019"/>
+        <card number="1" name="Island" setShortName="MOM" collectorNumber="278" uuid="988bfa94-0c83-4057-a0c7-0ad885b8919c"/>
+        <card number="1" name="Old Gnawbone" setShortName="PAFR" collectorNumber="197p" uuid="643c027f-1e8b-490c-a1bc-91a2966153ae"/>
+        <card number="1" name="Deceiver of Form" setShortName="OGW" collectorNumber="1" uuid="a416d54b-ac84-48ac-92f8-eeb348f26016"/>
+        <card number="1" name="Mystic Confluence" setShortName="CMM" collectorNumber="108" uuid="62e5d409-c0b6-4123-802d-eb32f223bd1a"/>
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
+        <card number="1" name="Misty Rainforest" setShortName="SLU" collectorNumber="5" uuid="8ed80db2-b30d-4306-8d9f-a43cd77d37e3"/>
+        <card number="1" name="Sylvan Scrying" setShortName="PRM" collectorNumber="60476" uuid="1a3e92c3-4421-43a6-8be3-9fcde867933e"/>
+        <card number="1" name="Nature's Lore" setShortName="MKC" collectorNumber="178" uuid="f5615c05-eb1e-4d27-a323-72d643d7c1d8"/>
+        <card number="1" name="Asceticism" setShortName="LTC" collectorNumber="233" uuid="bde335c5-0e87-43c9-bef6-423e4d1caf35"/>
+        <card number="1" name="Tooth and Nail" setShortName="HA7" collectorNumber="15" uuid="fbfb99ad-4ab4-452e-85c3-737dd6bbe8e8"/>
+        <card number="1" name="Reality Shift" setShortName="DRC" collectorNumber="39" uuid="ea37a906-2f9b-4eb1-97be-134c280ba43e"/>
+        <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
+        <card number="1" name="Sylvan Library" setShortName="CC1" collectorNumber="5" uuid="7a483778-b88b-473f-9217-7583e69b3e70"/>
+        <card number="1" name="Ugin, the Spirit Dragon" setShortName="M21" collectorNumber="1" uuid="9c017fa9-7021-417a-9c2e-3df409644fcf"/>
+    </zone>
+</cockatrice_deck>

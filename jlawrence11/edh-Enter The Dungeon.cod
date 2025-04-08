@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_deck version="1">
+    <deckname>Enter The Dungeon (EDH)</deckname>
+    <bannerCard providerId="d30255f6-e058-476a-b377-2ee4c9178ed1">Sefris of the Hidden Ways</bannerCard>
+    <comments>CDR: Sefris of the Hidden Ways
+Colors: WUB
+</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Accursed Marauder"/>
+        <card number="1" name="Acererak the Archlich"/>
+        <card number="1" name="Angel of the Ruins"/>
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Ashen Rider"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Bar the Gate"/>
+        <card number="1" name="Barrowin of Clan Undurr"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Cathar Commando"/>
+        <card number="1" name="Champion of Wits"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Component Pouch"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Doom Whisperer"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Dungeon Delver"/>
+        <card number="1" name="Dungeon Descent"/>
+        <card number="1" name="Dungeon Map"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Faithful Mending"/>
+        <card number="1" name="Fates' Reversal"/>
+        <card number="1" name="Fly"/>
+        <card number="1" name="Forbidden Alchemy"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="1" name="Hama Pashar, Ruin Seeker"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Immovable Rod"/>
+        <card number="1" name="Imoen, Mystic Trickster"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Likeness Looter"/>
+        <card number="1" name="Merfolk Looter"/>
+        <card number="1" name="Midnight Pathlighter"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Nadaar, Selfless Paladin"/>
+        <card number="1" name="Nimbus Maze"/>
+        <card number="1" name="Obsessive Stitcher"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Priest of Fell Rites"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Radiant Solar"/>
+        <card number="1" name="Ravenloft Adventurer"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Rilsa Rael, Kingpin"/>
+        <card number="1" name="Rona, Herald of Invasion"/>
+        <card number="1" name="Safana, Calimport Cutthroat"/>
+        <card number="1" name="Sarevok's Tome"/>
+        <card number="1" name="Seasoned Dungeoneer"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Syr Konrad, the Grim"/>
+        <card number="1" name="Teferi, Master of Time"/>
+        <card number="1" name="Thorough Investigation"/>
+        <card number="1" name="Tomb of Horrors Adventurer"/>
+        <card number="1" name="Tortured Existence"/>
+        <card number="1" name="Triumphant Adventurer"/>
+        <card number="1" name="Unburial Rites"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Vohar, Vodalian Desecrator"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="White Plume Adventurer"/>
+        <card number="1" name="Yuan-Ti Malison"/>
+        <card number="1" name="Sefris of the Hidden Ways" setShortName="AFC" collectorNumber="3" uuid="d30255f6-e058-476a-b377-2ee4c9178ed1"/>
+        <card number="1" name="Flooded Strand" setShortName="PMH3" collectorNumber="220s" uuid="b817ec56-51cb-42b0-a46b-914a6d4b5582"/>
+        <card number="1" name="Polluted Delta" setShortName="PMH3" collectorNumber="224s" uuid="12ecf069-25bf-484e-a92e-a46a41a86536"/>
+        <card number="1" name="Arid Mesa" setShortName="SPG" collectorNumber="109" uuid="2bd93079-b10e-4be3-9545-17fa3bc3bfd2"/>
+        <card number="1" name="Scalding Tarn" setShortName="SPG" collectorNumber="112" uuid="49515199-f53c-4595-94ba-3a3e46b86372"/>
+        <card number="1" name="Windswept Heath" setShortName="PMH3" collectorNumber="235s" uuid="903e4a26-b49c-45af-b291-37935808295c"/>
+        <card number="1" name="Contaminated Aquifer" setShortName="TDC" collectorNumber="353" uuid="9fad6994-1280-4a8e-a2f5-34b4ed6ef6f5"/>
+        <card number="1" name="Raffine's Tower" setShortName="SNC" collectorNumber="254" uuid="a2c56479-4bee-4edb-80d7-4af010b7c793"/>
+        <card number="1" name="Godless Shrine" setShortName="CLU" collectorNumber="276" uuid="e221e498-d9b1-47f0-b4dd-05e1105ce9f1"/>
+        <card number="1" name="Scrubland" setShortName="30A" collectorNumber="277" uuid="eb9a95ba-4c64-4547-b497-d06f3b9a397f"/>
+        <card number="1" name="Tundra" setShortName="30A" collectorNumber="280" uuid="79fc39a1-6a9d-4893-a41b-e8d13fb0d108"/>
+        <card number="1" name="Underground Sea" setShortName="30A" collectorNumber="281" uuid="cbde3041-fb76-4dc8-9cdf-359ad955fd73"/>
+        <card number="1" name="Watery Grave" setShortName="RVR" collectorNumber="291" uuid="6e86eb36-f4cc-4a75-b43a-4dee463a3b33"/>
+        <card number="1" name="Verdant Catacombs" setShortName="MH2" collectorNumber="260" uuid="94c229ea-90da-4aa0-bfda-b162fb3b5b8b"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="MB2" collectorNumber="110" uuid="967a6608-6e5d-40b3-b0c6-2e79b97f10ba"/>
+        <card number="1" name="Plains" setShortName="DFT" collectorNumber="277" uuid="464723b3-0723-45f2-a258-32d098c39039"/>
+        <card number="1" name="Plains" setShortName="J25" collectorNumber="81" uuid="a4446149-341b-449b-86e2-2b6b47b7a75e"/>
+        <card number="1" name="Plains" setShortName="DMU" collectorNumber="264" uuid="be849ad5-9f96-4605-a0dc-8b9588ac7dd6"/>
+        <card number="1" name="Marsh Flats" setShortName="SLU" collectorNumber="1" uuid="723a163e-97c1-4177-a067-873bebd9a87d"/>
+        <card number="1" name="Island" setShortName="DFT" collectorNumber="280" uuid="5a8e9b9e-4947-4b6a-b21b-6fe009760fc5"/>
+        <card number="1" name="Island" setShortName="LTR" collectorNumber="265" uuid="671516eb-b088-4a15-aec9-1781ca016e11"/>
+        <card number="1" name="Leechridden Swamp" setShortName="DDR" collectorNumber="65" uuid="d64026d0-c126-4407-869e-a48c09d017c0"/>
+        <card number="1" name="Swamp" setShortName="DFT" collectorNumber="283" uuid="040d064e-b023-4750-afeb-1f58e36bc4ab"/>
+        <card number="1" name="Swamp" setShortName="OTJ" collectorNumber="281" uuid="eb7dc259-9949-4673-a8f1-874396948392"/>
+        <card number="1" name="Swamp" setShortName="SCD" collectorNumber="344" uuid="9efeec59-1236-4d66-a4e0-16f1a1ce4274"/>
+    </zone>
+</cockatrice_deck>
