@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_deck version="1">
+    <deckname>Infectious Growth (EDH)</deckname>
+    <bannerCard providerId="d0d33d52-3d28-4635-b985-51e126289259">Atraxa, Praetors' Voice</bannerCard>
+    <comments>CDR: Atraza, Praetors' Voice
+Colors: GWUB</comments>
+    <tags>
+        <tag>💫 Proliferate</tag>
+        <tag>💉 Infect</tag>
+    </tags>
+    <zone name="main">
+        <card number="1" name="Inkmoth Nexus"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Atraxa, Praetors' Voice" setShortName="2XM" collectorNumber="190" uuid="d0d33d52-3d28-4635-b985-51e126289259"/>
+        <card number="1" name="Blightbelly Rat" setShortName="ONE" collectorNumber="85" uuid="9255cd01-a611-4fec-b9ec-b271687740ba"/>
+        <card number="1" name="Blighted Agent" setShortName="PLST" collectorNumber="NPH-29" uuid="02649a16-4a28-4a5f-a24a-3bcdd9d449f7"/>
+        <card number="1" name="Bloated Contaminator" setShortName="ONE" collectorNumber="159" uuid="411bda96-6c65-475d-9850-0a9b3eefa553"/>
+        <card number="1" name="Cankerbloom" setShortName="ONE" collectorNumber="161" uuid="89b39293-6f57-4294-85fc-c718bdbb4d40"/>
+        <card number="1" name="Contaminant Grafter" setShortName="ONC" collectorNumber="17" uuid="0ef2f776-ff35-464b-bfcf-075c9ae4baa7"/>
+        <card number="1" name="Deepglow Skate" setShortName="SLD" collectorNumber="1093" uuid="d04ddd06-0082-44aa-8782-7bd5631f2e77"/>
+        <card number="1" name="Dreamtide Whale" setShortName="PMH3" collectorNumber="59s" uuid="ea6c88c8-9d41-4f5d-ad89-5da0f06fd7a7"/>
+        <card number="1" name="Evolution Sage" setShortName="WAR" collectorNumber="159" uuid="b4042db8-6032-49a2-bc96-ad15f55db6c3"/>
+        <card number="1" name="Ezuri, Stalker of Spheres" setShortName="PONE" collectorNumber="201p" uuid="f461b6db-9b6b-46e7-966d-12cf760d5342"/>
+        <card number="1" name="Flux Channeler" setShortName="CMM" collectorNumber="847" uuid="3c520263-6bad-4521-ba9e-192ca8223b07"/>
+        <card number="1" name="Ichor Rats" setShortName="ONC" collectorNumber="93" uuid="387e4be7-7e3d-4623-afe6-229f8a9bacd4"/>
+        <card number="1" name="Ixhel, Scion of Atraxa" setShortName="ONC" collectorNumber="1" uuid="ab866ec4-dcb4-47ef-8de1-a369986609c0"/>
+        <card number="1" name="Metastatic Evangel" setShortName="MH3" collectorNumber="35" uuid="774e115a-c0dc-4901-9a1f-87754304e378"/>
+        <card number="1" name="Norn's Choirmaster" setShortName="ONC" collectorNumber="8" uuid="1da10c9f-4c9f-4eee-8480-665c453215d4"/>
+        <card number="1" name="Phyrexian Swarmlord" setShortName="ONC" collectorNumber="111" uuid="715565be-0c97-4f06-8e89-2ea44c6007c9"/>
+        <card number="1" name="Plague Stinger" setShortName="ONC" collectorNumber="96" uuid="325a8b1b-fa0c-4140-b9e3-a93705b06aa0"/>
+        <card number="1" name="Skithiryx, the Blight Dragon" setShortName="PLST" collectorNumber="SOM-79" uuid="0e6d292c-d6e4-4512-a4ff-9644e6dc63ff"/>
+        <card number="1" name="Skrelv, Defector Mite" setShortName="PONE" collectorNumber="33p" uuid="2c7229b7-26f6-4c1f-b7c5-4cf6ca96fe20"/>
+        <card number="1" name="Tainted Observer" setShortName="ONE" collectorNumber="217" uuid="b9cba67a-b714-49b0-9797-24aca283f162"/>
+        <card number="1" name="Tekuthal, Inquiry Dominus" setShortName="PONE" collectorNumber="71p" uuid="ae02cfc0-349c-4d4d-8689-439d3a98b70e"/>
+        <card number="1" name="Thrummingbird" setShortName="ONE" collectorNumber="72" uuid="67f0a63e-0866-423e-b917-fc7c71063021"/>
+        <card number="1" name="Venerated Rotpriest" setShortName="PONE" collectorNumber="192s" uuid="dfb09439-1935-424b-b95d-919a0d37bc3d"/>
+        <card number="1" name="Voidwing Hybrid" setShortName="ONE" collectorNumber="221" uuid="8a48705f-bd8a-43f1-b1fe-14a5c9a83ccd"/>
+        <card number="1" name="Vorinclex, Monstrous Raider" setShortName="PKHM" collectorNumber="199p" uuid="ce330b20-bc6e-4353-93af-4c5bf8fc12be"/>
+        <card number="1" name="Brokers Ascendancy" setShortName="SNC" collectorNumber="170" uuid="799de0f1-6bf2-4158-8a4f-bedc3d2f6578"/>
+        <card number="1" name="Doubling Season" setShortName="BBD" collectorNumber="195" uuid="29ba5a2d-d787-4214-8cd7-7f2bcea938f8"/>
+        <card number="1" name="Ghostly Prison" setShortName="SLD" collectorNumber="1837" uuid="f66cce50-ce75-4fa4-9d2d-85694e5938cf"/>
+        <card number="1" name="Innkeeper's Talent" setShortName="BLB" collectorNumber="180" uuid="941b0afc-0e8f-45f2-ae7f-07595e164611"/>
+        <card number="1" name="Norn's Decree" setShortName="ONC" collectorNumber="9" uuid="76f28aa2-1c18-4d58-a3f9-6cd5b49280d8"/>
+        <card number="1" name="Rhystic Study" setShortName="J22" collectorNumber="114" uuid="9f37c5b6-a59c-45cd-9a99-e9357fe9ea1b"/>
+        <card number="1" name="Smothering Tithe" setShortName="P22" collectorNumber="5" uuid="24921817-36fe-4a2d-86e7-d3749bb8da32"/>
+        <card number="1" name="Atomize" setShortName="PIP" collectorNumber="622" uuid="a238b4e8-72a6-4424-9165-d9e7275b9778"/>
+        <card number="1" name="Counterspell" setShortName="CMM" collectorNumber="81" uuid="8493131c-0a7b-4be6-a8a2-0b425f4f67fb"/>
+        <card number="1" name="Cyclonic Rift" setShortName="CMM" collectorNumber="84" uuid="c77ebe57-ea56-4300-b293-6260c4c01a43"/>
+        <card number="1" name="Experimental Augury" setShortName="ONE" collectorNumber="49" uuid="e508ae5d-ffb5-4480-be90-a4394954b559"/>
+        <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
+        <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
+        <card number="1" name="Infectious Bite" setShortName="ONE" collectorNumber="172" uuid="83dfb2a5-cd5c-46c6-9bb8-7c5d00f3e003"/>
+        <card number="1" name="Path to Exile" setShortName="2X2" collectorNumber="23" uuid="90460227-6f34-4403-b2ef-d79f95f44790"/>
+        <card number="1" name="Prologue to Phyresis" setShortName="ONE" collectorNumber="65" uuid="ac625f30-ed91-4b21-ada8-aaa5b2ad79b8"/>
+        <card number="1" name="Swords to Plowshares" setShortName="DRC" collectorNumber="37" uuid="3b701a88-6074-476f-b87c-9a6d5d22c414"/>
+        <card number="1" name="Teferi's Protection" setShortName="SLD" collectorNumber="164" uuid="e59f4627-58ab-45c8-b31b-eaa52dad33fc"/>
+        <card number="1" name="Vraska's Fall" setShortName="ONE" collectorNumber="116" uuid="0173b7b4-2832-4943-ba45-8ba498d7a056"/>
+        <card number="1" name="Arcane Signet" setShortName="DRC" collectorNumber="52" uuid="0422cfdd-0a7c-4097-8655-b074cd8fd713"/>
+        <card number="1" name="Astral Cornucopia" setShortName="CM2" collectorNumber="172" uuid="182864e2-81ef-41bc-94cd-b0ea67f60bda"/>
+        <card number="1" name="Chromatic Lantern" setShortName="PLG25" collectorNumber="1" uuid="07a2d789-02ca-4d04-917d-b00a93126718"/>
+        <card number="1" name="Contagion Engine" setShortName="SLD" collectorNumber="1095" uuid="6acd847d-7474-4d6a-8281-aa59991a1b87"/>
+        <card number="1" name="Glistening Sphere" setShortName="ONC" collectorNumber="20" uuid="b825db05-7e95-400b-944b-526cfa6addc0"/>
+        <card number="1" name="Lightning Greaves" setShortName="NCC" collectorNumber="371" uuid="205430f6-2d00-4dce-98c7-3d24a8ae73fc"/>
+        <card number="1" name="Sol Ring" setShortName="TDC" collectorNumber="106" uuid="7b0ccfd4-f118-4497-9c5a-54cf12000e16"/>
+        <card number="1" name="Ajani, Sleeper Agent" setShortName="PDMU" collectorNumber="192p" uuid="8891277a-5f8a-4d8c-b0a3-88227a0a3732"/>
+        <card number="1" name="Tamiyo, Field Researcher" setShortName="INR" collectorNumber="249" uuid="576ba8db-fad9-4c48-96be-a8a7e5f43039"/>
+        <card number="1" name="Vraska, Betrayal's Sting" setShortName="ONE" collectorNumber="115" uuid="f59f2b07-47ad-4efd-ae8c-1c04b9265024"/>
+        <card number="1" name="Contentious Plan" setShortName="WAR" collectorNumber="46" uuid="8e30deb6-9e1f-4545-ae30-c30ba6c7b3a0"/>
+        <card number="1" name="Demonic Tutor" setShortName="J20" collectorNumber="4" uuid="fdbe0cf7-38e2-4b2e-8fcb-c08f160caf19"/>
+        <card number="1" name="Drown in Ichor" setShortName="ONE" collectorNumber="91" uuid="bf148ef4-0ed7-4fbe-8ab6-01dd3981c8d3"/>
+        <card number="1" name="Farewell" setShortName="MKC" collectorNumber="64" uuid="114d2180-093b-4838-97ad-badbc8ee50b0"/>
+        <card number="1" name="Farseek" setShortName="LCC" collectorNumber="242" uuid="0cfd3cb1-2209-453d-be45-ce1b56265496"/>
+        <card number="1" name="Infectious Inquiry" setShortName="ONE" collectorNumber="97" uuid="0a10f284-b043-4307-bdc7-6dad47cc9221"/>
+        <card number="1" name="Nature's Lore" setShortName="CMM" collectorNumber="904" uuid="a78584e8-bb82-4977-a27d-68b1befe9b3b"/>
+        <card number="1" name="Phyresis Outbreak" setShortName="ONC" collectorNumber="12" uuid="812498c8-974c-460c-b782-506f5f735346"/>
+        <card number="1" name="Tezzeret's Gambit" setShortName="OTC" collectorNumber="117" uuid="15b2188f-06c8-4771-bba6-e6fc531ebc9a"/>
+        <card number="1" name="Three Visits" setShortName="MKC" collectorNumber="189" uuid="ed7a4afa-2b02-4e09-9ac4-f9d579f7d68c"/>
+        <card number="1" name="Unnatural Restoration" setShortName="ONE" collectorNumber="191" uuid="4d4e6a91-59cc-4f7f-af25-16acabdafb1a"/>
+        <card number="1" name="Arcane Sanctum" setShortName="DRC" collectorNumber="146" uuid="b57164a6-aca8-4cd2-9b40-1c10f13c1c6b"/>
+        <card number="1" name="Bojuka Bog" setShortName="TDC" collectorNumber="341" uuid="38834333-f9ea-43a8-b00a-17935d59eaea"/>
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
+        <card number="1" name="Breeding Pool" setShortName="RVR" collectorNumber="275" uuid="9b35c030-029d-4286-ab79-0165c8688c6c"/>
+        <card number="1" name="Command Tower" setShortName="DRC" collectorNumber="60" uuid="0bf28443-7124-44e1-b387-95c3bd1a9da2"/>
+        <card number="1" name="Exotic Orchard" setShortName="BLC" collectorNumber="131" uuid="e6d8d98d-29b2-4ca2-bbda-4db2e8f6ae0b"/>
+        <card number="1" name="Flooded Strand" setShortName="MH3" collectorNumber="220" uuid="8f85e12c-196b-4459-b81f-0c9c854e9f57"/>
+        <card number="1" name="Godless Shrine" setShortName="RVR" collectorNumber="277" uuid="9e26f6ad-c1b8-4ec6-a179-e86ce09824c1"/>
+        <card number="1" name="Hallowed Fountain" setShortName="RVR" collectorNumber="280" uuid="cd70adab-39db-4cc9-ae37-a342f9109bec"/>
+        <card number="1" name="Indatha Triome" setShortName="IKO" collectorNumber="248" uuid="2b74bb81-fb9a-40e5-a941-e517430b52f5"/>
+        <card number="1" name="Sea of Clouds" setShortName="PLST" collectorNumber="BBD-84" uuid="da77a3e1-9f6f-4494-9430-40c7071fa767"/>
+    </zone>
+</cockatrice_deck>
