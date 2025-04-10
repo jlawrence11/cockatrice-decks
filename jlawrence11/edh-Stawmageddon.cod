@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_deck version="1">
+    <deckname>Stawmageddon (EDH)</deckname>
+    <bannerCard providerId="">Reaper King</bannerCard>
+    <comments>CDR: The Reaper King
+Colors: UWBRG</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Birthing Boughs"/>
+        <card number="1" name="Bloodline Pretender"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fang Skulkin"/>
+        <card number="1" name="Farmstead Gleaner"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Field Creeper"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Graveshifter"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Heap Doll"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Irregular Cohort"/>
+        <card number="1" name="Jetmir's Garden"/>
+        <card number="1" name="Jousting Dummy"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Leyline of the Guildpact"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Metallic Mimic"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Molten Echoes"/>
+        <card number="1" name="Mothdust Changeling"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Oasis Gardener"/>
+        <card number="1" name="One-Eyed Scarecrow"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Osseous Sticktwister"/>
+        <card number="1" name="Padeem, Consul of Innovation"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Patchwork Banner"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Pili-Pala"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Reaper King"/>
+        <card number="1" name="Reflections of Littjara"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rendmaw, Creaking Nest"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Roaming Throne"/>
+        <card number="1" name="Scarecrone"/>
+        <card number="1" name="Scarecrow Guide"/>
+        <card number="1" name="Scaretiller"/>
+        <card number="1" name="Scorn Effigy"/>
+        <card number="1" name="Scuttlemutt"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Shell Skulkin"/>
+        <card number="1" name="Shire Scarecrow"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Teleportation Circle"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Tezzeret, Master of the Bridge"/>
+        <card number="1" name="The Swarmweaver"/>
+        <card number="1" name="The World Tree"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Three Tree City"/>
+        <card number="1" name="Three Tree Mascot"/>
+        <card number="1" name="Timeless Lotus"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Unsettled Mariner"/>
+        <card number="1" name="Voyager Quickwelder"/>
+        <card number="1" name="Wickerfolk Indomitable"/>
+        <card number="1" name="Wild-Field Scarecrow"/>
+        <card number="1" name="Wildfire Wickerfolk"/>
+        <card number="1" name="Zagoth Triome"/>
+        <card number="1" name="Underground Sea" setShortName="30A" collectorNumber="281" uuid="cbde3041-fb76-4dc8-9cdf-359ad955fd73"/>
+        <card number="1" name="Volcanic Island" setShortName="30A" collectorNumber="282" uuid="12f74d08-d020-4c89-a1a2-0815b8b65755"/>
+        <card number="1" name="Scrubland" setShortName="30A" collectorNumber="277" uuid="eb9a95ba-4c64-4547-b497-d06f3b9a397f"/>
+        <card number="1" name="Plateau" setShortName="30A" collectorNumber="275" uuid="d5ba61cb-0c57-4a94-91a9-6ce0a27b9db7"/>
+        <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
+        <card number="1" name="Savannah" setShortName="30A" collectorNumber="276" uuid="3af5afd0-1b5b-4055-9d90-87356090911f"/>
+        <card number="1" name="Tropical Island" setShortName="30A" collectorNumber="279" uuid="2d9d4f2e-5a41-410d-b1c3-47e4aca07177"/>
+        <card number="1" name="Barracks of the Thousand" setShortName="LCI" collectorNumber="357" uuid="89a0f7fe-6bff-4c0a-b419-1f4f457c194c"/>
+        <card number="1" name="Badlands" setShortName="30A" collectorNumber="273" uuid="c5335e87-57e3-4da6-aba0-619628120f47"/>
+        <card number="1" name="Bayou" setShortName="30A" collectorNumber="274" uuid="538dfd90-5215-4aa0-8e10-1e6fd9f717c8"/>
+    </zone>
+</cockatrice_deck>

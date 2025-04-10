@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_deck version="1">
+    <deckname>Put a Ring on it (EDH)</deckname>
+    <bannerCard providerId="">Sauron, the Dark Lord</bannerCard>
+    <comments>CDR: Sauron, the Dark Lord
+Colors: UBR
+
+Status: testing</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Anger"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Barad-dûr"/>
+        <card number="1" name="Birthday Escape"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Book of Mazarbul"/>
+        <card number="1" name="Call of the Ring"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Claim the Precious"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Corsairs of Umbar"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Dreadhorde Invasion"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Fall of Cair Andros"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Fiery Inscription"/>
+        <card number="1" name="Foray of Orcs"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Gothmog, Morgul Lieutenant"/>
+        <card number="1" name="Grishnákh, Brash Instigator"/>
+        <card number="1" name="In the Darkness Bind Them"/>
+        <card number="1" name="Lazotep Plating"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Lord of the Nazgûl"/>
+        <card number="1" name="March from the Black Gate"/>
+        <card number="1" name="Mauhúr, Uruk-hai Captain"/>
+        <card number="1" name="Minas Morgul, Dark Fortress"/>
+        <card number="1" name="Moria Scavenger"/>
+        <card number="1" name="Mount Doom"/>
+        <card number="1" name="Nazgûl"/>
+        <card number="1" name="Nightscape Familiar"/>
+        <card number="1" name="One Ring to Rule Them All"/>
+        <card number="1" name="Orcish Bowmasters"/>
+        <card number="1" name="Orcish Medicine"/>
+        <card number="1" name="Orcish Siegemaster"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Relic of Sauron"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Rivendell"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sam's Desperate Rescue"/>
+        <card number="1" name="Saruman's Trickery"/>
+        <card number="1" name="Saruman, the White Hand"/>
+        <card number="1" name="Sauron's Ransom"/>
+        <card number="1" name="Sauron, Lord of the Rings"/>
+        <card number="1" name="Sauron, the Dark Lord"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soothing of Sméagol"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Summons of Saruman"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="The Black Gate"/>
+        <card number="1" name="The Mouth of Sauron"/>
+        <card number="1" name="The One Ring"/>
+        <card number="1" name="There and Back Again"/>
+        <card number="1" name="Too Greedily, Too Deep"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Treason of Isengard"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Warg Rider"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Widespread Brutality"/>
+        <card number="1" name="Witch-king of Angmar"/>
+        <card number="1" name="Xander's Lounge"/>
+        <card number="1" name="Madblind Mountain" setShortName="SHM" collectorNumber="274" uuid="513adae2-6436-4284-9f23-87ef627e81b7"/>
+        <card number="1" name="Fabled Path of Searo Point" setShortName="PH19" collectorNumber="7" uuid="3729066c-4f63-47ca-8e2d-41c8bf8eb7c4"/>
+        <card number="1" name="Volatile Fjord" setShortName="KHM" collectorNumber="273" uuid="f2392fbb-d9c4-4688-b99c-4e7614c60c12"/>
+        <card number="1" name="Sulfurous Mire" setShortName="KHM" collectorNumber="270" uuid="35ebe245-ebb5-493c-b9c1-56fbfda9bd66"/>
+        <card number="2" name="Mountain" setShortName="DFT" collectorNumber="288" uuid="653e2393-30a7-4e0c-bd20-f05ca0ba3cb6"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="MKC" collectorNumber="277" uuid="67652446-6d12-4e2a-bb51-ba685f2e79d1"/>
+        <card number="2" name="Island" setShortName="DFT" collectorNumber="282" uuid="7a3c4a9d-48db-474f-aeb6-8b4fa08ce6fa"/>
+        <card number="1" name="Badlands" setShortName="VMA" collectorNumber="291" uuid="73403d04-fe97-4830-8b80-16dd1a1a6cc1"/>
+        <card number="1" name="Witch's Cottage" setShortName="ELD" collectorNumber="249" uuid="b87891cd-b457-4dff-8d18-a7eaf6748fc6"/>
+        <card number="3" name="Swamp" setShortName="J25" collectorNumber="89" uuid="02fe3fdf-1d21-4e35-b0f3-3bcde7b05e23"/>
+        <card number="1" name="Ringsight" setShortName="LTR" collectorNumber="220" uuid="3700a65c-6f54-4d56-9c6f-8364c45a058c"/>
+    </zone>
+</cockatrice_deck>
